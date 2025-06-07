@@ -1,72 +1,464 @@
 [
   {
-    "date": "2025-06-07", 
-    "language": "en",
-    "title": "2025-06-10 수정 데이터 Day 5: Understanding Global Trade Dynamics", 
-    "content": "Today's content focuses on how Donald Trump's \"America First\" policy, which targets global supply chains, could also signal the end of an era of arbitrage. Beyond trade in goods, this policy may impact tax, regulatory, and financial arbitrage, with potentially more significant consequences for investors.\n•\nTax Arbitrage: U.S. companies have shifted assets offshore to lower-tax jurisdictions, reporting significant profits there compared to the U.S.. This has benefited companies and low-tax countries but not U.S. taxpayers.\n•\nRegulatory Arbitrage: Companies, particularly in finance like insurers, have moved activities to places with looser regulations, such as transferring life insurance reserves to Bermuda. This allows them to free up capital and has aided the growth of private credit firms using offshore insurance operations for funding.\n•\nFinancial Arbitrage: The post-2008 global financial system relies on foreign exchange swaps using U.S. Treasuries held overseas to create international credit. While some see this as an \"exorbitant privilege\" for the U.S., the Trump administration views it as providing a \"global public good\" for free and suggests other countries should \"pay their fair share\".\n\nA potential crackdown on these arbitrages could mean investors should be cautious about industries and firms that benefit significantly from these practices, such as certain pharmaceutical companies or private credit providers reliant on offshore funding. Targeting the dollar-based financial system itself, possibly by taxing foreign investors in U.S. assets, could be even more disruptive to global finance as we know it.",
-    "analysis": [
-      {
-        "sentenceNumber": 1,
-        "originalSentenceText": "How Donald Trump's \"America First\" policy, which targets global supply chains, could also signal the end of an era of arbitrage.",
-        "translatedSentenceText": "도널드 트럼프의 '미국 우선주의' 정책(글로벌 공급망을 겨냥하는)이 어떻게 차익 거래 시대의 종말을 또한 신호하는지 보여줍니다.",
-        "units": [
-          {"unit": "How", "role": "adv", "meaning": "부사", "type": "Adverb", "is_main_unit": true, "detail": "어떻게"},
-          {"unit": "Donald Trump's \"America First\" policy, which targets global supply chains", "role": "S", "meaning": "주어", "type": "Noun Phrase", "is_main_unit": true, "detail": "도널드 트럼프의 \"미국 우선주의\" 정책, 즉 글로벌 공급망을 겨냥하는"},
-          {"unit": "could also signal", "role": "V", "meaning": "동사", "type": "Verb", "is_main_unit": true, "detail": "또한 신호할 수 있다"},
-          {"unit": "the end of an era of arbitrage", "role": "O", "meaning": "목적어", "type": "Noun Phrase", "is_main_unit": true, "detail": "차익 거래 시대의 종말을"}
-        ]
-      }
-
-    ],
-    "vocabulary": [ 
-        {"word": "arbitrage", "pos": "n", "meaning": "차익 거래"},
-        {"word": "jurisdiction", "pos": "n", "meaning": "관할권, 사법권"}
-    ]
-  },
-    {
-    "date": "2025-06-08", 
+    "date": "25-06-07",
     "language":"en",
-    "title": "what what what ‘America First’ could end the age of arbitrage",
+    "title": "Why ‘America First’ could end the age of arbitrage",
     "content": "How Donald Trump's \"America First\" policy, which targets global supply chains, could also signal the end of an era of arbitrage. Beyond trade in goods, this policy may impact tax, regulatory, and financial arbitrage, with potentially more significant consequences for investors.\n•\nTax Arbitrage: U.S. companies have shifted assets offshore to lower-tax jurisdictions, reporting significant profits there compared to the U.S.. This has benefited companies and low-tax countries but not U.S. taxpayers.\n•\nRegulatory Arbitrage: Companies, particularly in finance like insurers, have moved activities to places with looser regulations, such as transferring life insurance reserves to Bermuda. This allows them to free up capital and has aided the growth of private credit firms using offshore insurance operations for funding.\n•\nFinancial Arbitrage: The post-2008 global financial system relies on foreign exchange swaps using U.S. Treasuries held overseas to create international credit. While some see this as an \"exorbitant privilege\" for the U.S., the Trump administration views it as providing a \"global public good\" for free and suggests other countries should \"pay their fair share\".\n\nA potential crackdown on these arbitrages could mean investors should be cautious about industries and firms that benefit significantly from these practices, such as certain pharmaceutical companies or private credit providers reliant on offshore funding. Targeting the dollar-based financial system itself, possibly by taxing foreign investors in U.S. assets, could be even more disruptive to global finance as we know it.",
     "analysis": [
       {
         "sentenceNumber": 1,
-        "originalSentenceText": "How Donald Trump's \"America First\" policy, which targets global supply chains, could also signal the end of an era of arbitrage.",
+        "units": [
+          {
+            "unit": "How",
+            "role": "adv",
+            "meaning": "부사",
+            "type": "Adverb",
+            "is_main_unit": true,
+            "detail": "어떻게"
+          },
+          {
+            "unit": "Donald Trump's \"America First\" policy, which targets global supply chains",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "도널드 트럼프의 \"미국 우선주의\" 정책, 즉 글로벌 공급망을 겨냥하는"
+          },
+          {
+            "unit": "could also signal",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "또한 신호할 수 있다"
+          },
+          {
+            "unit": "the end of an era of arbitrage",
+            "role": "O",
+            "meaning": "목적어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "차익 거래 시대의 종말을"
+          }
+        ],
         "translatedSentenceText": "도널드 트럼프의 '미국 우선주의' 정책(글로벌 공급망을 겨냥하는)이 어떻게 차익 거래 시대의 종말을 또한 신호하는지 보여줍니다.",
-        "units": [  ]
+        "originalSentenceText": "How Donald Trump's \"America First\" policy, which targets global supply chains, could also signal the end of an era of arbitrage."
       },
       {
         "sentenceNumber": 2,
-        "originalSentenceText": "Beyond trade in goods, this policy may impact tax, regulatory, and financial arbitrage, with potentially more significant consequences for investors.",
+        "units": [
+          {
+            "unit": "Beyond trade in goods",
+            "role": "prep",
+            "meaning": "전치사구",
+            "type": "Prepositional Phrase",
+            "is_main_unit": true,
+            "detail": "상품 거래를 넘어"
+          },
+          {
+            "unit": "this policy",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "이 정책은"
+          },
+          {
+            "unit": "may impact",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "영향을 미칠 수 있다"
+          },
+          {
+            "unit": "tax, regulatory, and financial arbitrage",
+            "role": "O",
+            "meaning": "목적어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "세금, 규제, 및 금융 차익 거래에"
+          },
+          {
+            "unit": "with potentially more significant consequences for investors",
+            "role": "prep",
+            "meaning": "전치사구",
+            "type": "Prepositional Phrase",
+            "is_main_unit": true,
+            "detail": "투자자들에게 잠재적으로 더 중대한 결과를 수반하며"
+          }
+        ],
         "translatedSentenceText": "상품 거래를 넘어, 이 정책은 세금, 규제, 금융 차익 거래에 영향을 미칠 수 있으며, 투자자들에게는 잠재적으로 더 심각한 결과를 초래할 수 있습니다.",
-        "units": [  ]
+        "originalSentenceText": "Beyond trade in goods, this policy may impact tax, regulatory, and financial arbitrage, with potentially more significant consequences for investors."
+      },
+      {
+        "sentenceNumber": 3,
+        "units": [
+          {
+            "unit": "U.S. companies",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "미국 기업들은"
+          },
+          {
+            "unit": "have shifted",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "이전해왔다"
+          },
+          {
+            "unit": "assets",
+            "role": "O",
+            "meaning": "목적어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "자산을"
+          },
+          {
+            "unit": "offshore",
+            "role": "adv",
+            "meaning": "부사",
+            "type": "Adverb",
+            "is_main_unit": true,
+            "detail": "해외로"
+          },
+          {
+            "unit": "to lower-tax jurisdictions",
+            "role": "prep",
+            "meaning": "전치사구",
+            "type": "Prepositional Phrase",
+            "is_main_unit": true,
+            "detail": "더 낮은 세율의 관할 지역으로"
+          },
+          {
+            "unit": "reporting significant profits there compared to the U.S.",
+            "role": "part",
+            "meaning": "분사구문",
+            "type": "Participial Phrase",
+            "is_main_unit": true,
+            "detail": "미국에 비해 그곳에서 상당한 이익을 보고하면서"
+          }
+        ],
+        "translatedSentenceText": "미국 기업들은 자산을 해외 저세율 관할 지역으로 이전하여, 미국에 비해 그곳에서 상당한 이익을 보고하고 있습니다.",
+        "originalSentenceText": "U.S. companies have shifted assets offshore to lower-tax jurisdictions, reporting significant profits there compared to the U.S.."
+      },
+      {
+        "sentenceNumber": 4,
+        "units": [
+          {
+            "unit": "This",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "이것은"
+          },
+          {
+            "unit": "has benefited",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "이익을 주었다"
+          },
+          {
+            "unit": "companies and low-tax countries but not U.S. taxpayers",
+            "role": "O",
+            "meaning": "목적어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "기업들과 저세율 국가들에게는 이익을 주었지만 미국 납세자들에게는 아니다"
+          }
+        ],
+        "translatedSentenceText": "이는 기업과 저세율 국가들에게는 이익이 되었지만 미국 납세자들에게는 그렇지 않았습니다.",
+        "originalSentenceText": "This has benefited companies and low-tax countries but not U.S. taxpayers."
+      },
+      {
+        "sentenceNumber": 5,
+        "units": [
+          {
+            "unit": "Companies, particularly in finance like insurers",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "기업들, 특히 보험사와 같은 금융 분야의 기업들은"
+          },
+          {
+            "unit": "have moved",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "옮겨왔다"
+          },
+          {
+            "unit": "activities",
+            "role": "O",
+            "meaning": "목적어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "활동들을"
+          },
+          {
+            "unit": "to places with looser regulations",
+            "role": "prep",
+            "meaning": "전치사구",
+            "type": "Prepositional Phrase",
+            "is_main_unit": true,
+            "detail": "규제가 더 느슨한 곳으로"
+          },
+          {
+            "unit": "such as transferring life insurance reserves to Bermuda",
+            "role": "prep",
+            "meaning": "전치사구 (예시)",
+            "type": "Prepositional Phrase",
+            "is_main_unit": true,
+            "detail": "생명 보험 준비금을 버뮤다로 이전하는 것과 같은"
+          }
+        ],
+        "translatedSentenceText": "기업들, 특히 보험사와 같은 금융 분야의 기업들은 생명 보험 준비금을 버뮤다로 이전하는 것과 같이 규제가 느슨한 곳으로 활동을 옮겼습니다.",
+        "originalSentenceText": "Companies, particularly in finance like insurers, have moved activities to places with looser regulations, such as transferring life insurance reserves to Bermuda."
+      },
+      {
+        "sentenceNumber": 6,
+        "units": [
+          {
+            "unit": "This",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "이것은"
+          },
+          {
+            "unit": "allows",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "허용한다"
+          },
+          {
+            "unit": "them",
+            "role": "O",
+            "meaning": "목적어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "그들에게"
+          },
+          {
+            "unit": "to free up capital",
+            "role": "infP",
+            "meaning": "부정사구 (목적격 보어)",
+            "type": "Infinitive Phrase",
+            "is_main_unit": true,
+            "detail": "자본을 확보하도록"
+          },
+          {
+            "unit": "and",
+            "role": "conj",
+            "meaning": "접속사",
+            "type": "Conjunction",
+            "is_main_unit": true,
+            "detail": "그리고"
+          },
+          {
+            "unit": "has aided",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "도왔다"
+          },
+          {
+            "unit": "the growth of private credit firms using offshore insurance operations for funding",
+            "role": "O",
+            "meaning": "목적어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "해외 보험 영업을 자금 조달에 사용하는 사모 신용 회사의 성장을"
+          }
+        ],
+        "translatedSentenceText": "이는 그들이 자본을 확보할 수 있게 하며, 해외 보험 영업을 자금 조달에 사용하는 사모 신용 회사의 성장을 도왔습니다.",
+        "originalSentenceText": "This allows them to free up capital and has aided the growth of private credit firms using offshore insurance operations for funding."
+      },
+      {
+        "sentenceNumber": 7,
+        "units": [
+          {
+            "unit": "The post-2008 global financial system",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "2008년 이후 글로벌 금융 시스템은"
+          },
+          {
+            "unit": "relies on",
+            "role": "V",
+            "meaning": "동사 (구동사)",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "의존한다"
+          },
+          {
+            "unit": "foreign exchange swaps using U.S. Treasuries held overseas to create international credit",
+            "role": "obj of prep",
+            "meaning": "전치사의 목적어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "해외에 보유된 미국 국채를 사용하여 국제 신용을 창출하는 외환 스왑에"
+          }
+        ],
+        "translatedSentenceText": "2008년 이후 글로벌 금융 시스템은 해외에 보유된 미국 국채를 사용하는 외환 스왑에 의존하여 국제 신용을 창출합니다.",
+        "originalSentenceText": "The post-2008 global financial system relies on foreign exchange swaps using U.S. Treasuries held overseas to create international credit."
+      },
+      {
+        "sentenceNumber": 8,
+        "units": [
+          {
+            "unit": "While some see this as an \"exorbitant privilege\" for the U.S.",
+            "role": "acl",
+            "meaning": "부사절",
+            "type": "Adverbial Clause",
+            "is_main_unit": true,
+            "detail": "일부는 이것을 미국을 위한 \"과도한 특권\"으로 보는 반면"
+          },
+          {
+            "unit": "the Trump administration",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "트럼프 행정부는"
+          },
+          {
+            "unit": "views",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "간주한다"
+          },
+          {
+            "unit": "it",
+            "role": "O",
+            "meaning": "목적어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "그것을"
+          },
+          {
+            "unit": "as providing a \"global public good\" for free",
+            "role": "prep",
+            "meaning": "전치사구",
+            "type": "Prepositional Phrase",
+            "is_main_unit": true,
+            "detail": "\"글로벌 공공재\"를 무료로 제공하는 것으로"
+          },
+          {
+            "unit": "and",
+            "role": "conj",
+            "meaning": "접속사",
+            "type": "Conjunction",
+            "is_main_unit": true,
+            "detail": "그리고"
+          },
+          {
+            "unit": "suggests",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "제안한다"
+          },
+          {
+            "unit": "other countries should \"pay their fair share\"",
+            "role": "O_ncl",
+            "meaning": "목적어 (명사절)",
+            "type": "Noun Clause",
+            "is_main_unit": true,
+            "detail": "다른 나라들이 \"그들의 공정한 몫을 지불해야 한다\"고"
+          }
+        ],
+        "translatedSentenceText": "일부는 이를 미국에게 '과도한 특권'으로 보지만, 트럼프 행정부는 이를 '글로벌 공공재'를 무료로 제공하는 것으로 간주하며 다른 국가들이 '공정한 몫을 지불해야 한다'고 제안합니다.",
+        "originalSentenceText": "While some see this as an \"exorbitant privilege\" for the U.S., the Trump administration views it as providing a \"global public good\" for free and suggests other countries should \"pay their fair share\"."
+      },
+      {
+        "sentenceNumber": 9,
+        "units": [
+          {
+            "unit": "A potential crackdown on these arbitrages",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "이러한 차익 거래에 대한 잠재적 단속은"
+          },
+          {
+            "unit": "could mean",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "의미할 수 있다"
+          },
+          {
+            "unit": "investors should be cautious about industries and firms that benefit significantly from these practices, such as certain pharmaceutical companies or private credit providers reliant on offshore funding",
+            "role": "O_ncl",
+            "meaning": "목적어 (명사절)",
+            "type": "Noun Clause",
+            "is_main_unit": true,
+            "detail": "투자자들이 특정 제약 회사나 해외 자금에 의존하는 사모 신용 제공자와 같이 이러한 관행으로부터 상당한 이익을 얻는 산업 및 기업에 대해 신중해야 한다는 것을"
+          }
+        ],
+        "translatedSentenceText": "이러한 차익 거래에 대한 잠재적 단속은 투자자들이 특정 제약 회사나 해외 자금에 의존하는 사모 신용 제공자와 같이 이러한 관행으로부터 상당한 이익을 얻는 산업 및 기업에 대해 신중해야 함을 의미할 수 있습니다.",
+        "originalSentenceText": "A potential crackdown on these arbitrages could mean investors should be cautious about industries and firms that benefit significantly from these practices, such as certain pharmaceutical companies or private credit providers reliant on offshore funding."
+      },
+      {
+        "sentenceNumber": 10,
+        "units": [
+          {
+            "unit": "Targeting the dollar-based financial system itself, possibly by taxing foreign investors in U.S. assets",
+            "role": "S",
+            "meaning": "주어 (동명사구)",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "달러 기반 금융 시스템 자체를 목표로 하는 것, 아마도 미국 자산에 외국인 투자자에게 세금을 부과함으로써"
+          },
+          {
+            "unit": "could be",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "일 수 있다"
+          },
+          {
+            "unit": "even more disruptive",
+            "role": "S.C",
+            "meaning": "주격보어",
+            "type": "Subject Complement Phrase",
+            "is_main_unit": true,
+            "detail": "훨씬 더 파괴적일"
+          },
+          {
+            "unit": "to global finance as we know it",
+            "role": "prep",
+            "meaning": "전치사구",
+            "type": "Prepositional Phrase",
+            "is_main_unit": true,
+            "detail": "우리가 알고 있는 글로벌 금융에"
+          }
+        ],
+        "translatedSentenceText": "달러 기반 금융 시스템 자체를 목표로 삼는 것(아마도 미국 자산에 대한 외국인 투자자에게 과세함으로써)은 우리가 알고 있는 글로벌 금융에 훨씬 더 파괴적일 수 있습니다.",
+        "originalSentenceText": "Targeting the dollar-based financial system itself, possibly by taxing foreign investors in U.S. assets, could be even more disruptive to global finance as we know it."
       }
-     
-    ],
-    "vocabulary": [  ]
-  },
-  {
-    "date": "2025-06-07",
-    "language": "en",
-    "title": "Day 4: Exploring Financial Arbitrage", 
-    "content": "Content for June 9th. How Donald Trump's \"America First\" policy... (이하 동일 내용 반복 또는 실제 내용)",
-    "analysis": [  ],
-    "vocabulary": [  ]
-  },
-  {
-    "date": "2025-06-03",
-    "language": "en",
-    "title": "Day 3: Regulatory and Tax Implications", 
-    "content": "Content for June 8th. How Donald Trump's \"America First\" policy... (이하 동일 내용 반복 또는 실제 내용)",
-    "analysis": [  ],
-    "vocabulary": [  ]
-  },
-  {
-    "date": "2025-06-06", 
-    "language": "en",
-    "title": "Day 1: Introduction to Arbitrage Concepts", 
-    "content": "Content for June 6th. How Donald Trump's \"America First\" policy... (이하 동일 내용 반복 또는 실제 내용)",
-    "analysis": [  ],
-    "vocabulary": []
+    ]
   }
 ]
