@@ -1,2262 +1,464 @@
 [
-  {
-    "date": "2023-10-27",
-    "language": "en",
-    "title": "Analysis of Dollar Movement and Trade/Fiscal Policies",
-    "content": "The U.S. dollar fell against major currencies at the start of the week. This decline followed President Trump's announcement to double duties on imported steel and aluminum and tensions with China. China's Commerce Ministry called the accusations \"groundless\" and planned \"forceful measures\", although Treasury Secretary Scott Bessent expressed belief that issues would be \"ironed out\". The dollar dropped against the yen, while the euro and sterling gained. The Canadian dollar, despite the tariff announcement, reached an eight-month high against the U.S. dollar. A broader index measuring the greenback against six major peers also eased.\n\nSome analysts suggest that U.S. protectionist trade policies increase the risk of stagflation, which could further weaken the dollar. The dollar has been significantly affected by Trump's trade policies and uncertainties. Concerns about a potential U.S. recession triggered by trade tensions have led investors to question the dollar's safe-haven status. The dollar had fallen against major peers since \"Liberation Day\" tariffs and further declined in the two weeks when 50% levies on Europe were threatened (though later postponed). It saw a brief rise after talks with the EU resumed and a court blocked some tariffs, but the duties were reinstated by an appeals court, and the administration indicated alternative implementation methods.\n\nGoldman Sachs expects sectoral tariffs and at least a 10% tariff floor for major trading partners to remain. They noted a risk that if tariffs are hindered, attention might shift to other revenue methods, potentially more negative for the dollar.\n\nFiscal worries have also contributed to a \"Sell America\" trend, causing U.S. dollar assets like stocks and bonds to drop. These concerns are highlighted as the Senate considers a tax cut and spending bill that would add significantly to the national debt. A specific section, S899, could be crucial. Barclays analysts believe S899, which would allow taxing companies/investors from countries with \"unfair foreign taxes,\" could be seen as a tax on the U.S. capital account. They suggest that actively reducing the return on foreigners' U.S. investments would likely decrease inflows and pressure the dollar.\n\nDespite the dollar sentiment being near \"extreme negativity,\" the future path is unclear. Other currencies like the Australian and New Zealand dollars also saw gains.",
-    "analysis": [
-      {
-        "sentenceNumber": 1,
-        "units": [
-          {
-            "unit": "The U.S. dollar",
-            "role": "S",
-            "meaning": "주어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "미국 달러"
-          },
-          {
-            "unit": "fell",
-            "role": "V",
-            "meaning": "동사",
-            "type": "Verb",
-            "is_main_unit": true,
-            "detail": "하락했다"
-          },
-          {
-            "unit": "against major currencies",
-            "role": "prep",
-            "meaning": "전치사구",
-            "type": "Prepositional Phrase",
-            "is_main_unit": true,
-            "detail": "주요 통화들에 대해"
-          },
-          {
-            "unit": "at the start of the week",
-            "role": "adp",
-            "meaning": "부사구",
-            "type": "Adverbial Phrase",
-            "is_main_unit": true,
-            "detail": "주 초에"
-          }
-        ],
-        "translatedSentenceText": "미국 달러는 주 초에 주요 통화들에 대해 하락했다.",
-        "originalSentenceText": "The U.S. dollar fell against major currencies at the start of the week"
-      },
-      {
-        "sentenceNumber": 2,
-        "units": [
-          {
-            "unit": "This decline",
-            "role": "S",
-            "meaning": "주어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "이러한 하락은"
-          },
-          {
-            "unit": "followed",
-            "role": "V",
-            "meaning": "동사",
-            "type": "Verb",
-            "is_main_unit": true,
-            "detail": "~에 뒤따랐다"
-          },
-          {
-            "unit": "President Trump's announcement to double duties on imported steel and aluminum and tensions with China",
-            "role": "O",
-            "meaning": "목적어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "트럼프 대통령의 수입 철강 및 알루미늄 관세 두 배 인상 발표와 중국과의 긴장"
-          },
-          {
-            "unit": "President Trump's announcement",
-            "role": "O 내 핵심",
-            "meaning": "트럼프 대통령의 발표",
-            "type": "Noun Phrase",
-            "is_main_unit": false
-          },
-          {
-            "unit": "to double duties on imported steel and aluminum",
-            "role": "inf",
-            "meaning": "announcement를 수식하는 부정사구",
-            "type": "Infinitive Phrase",
-            "is_main_unit": false,
-            "detail": "수입 철강 및 알루미늄에 대한 관세를 두 배로 올리겠다는"
-          },
-          {
-            "unit": "and",
-            "role": "conj",
-            "meaning": "그리고",
-            "type": "Conjunction",
-            "is_main_unit": false,
-            "detail": "and"
-          },
-          {
-            "unit": "tensions with China",
-            "role": "O 내 연결된 요소",
-            "meaning": "중국과의 긴장",
-            "type": "Noun Phrase",
-            "is_main_unit": false
-          }
-        ],
-        "translatedSentenceText": "이러한 하락은 트럼프 대통령이 수입 철강 및 알루미늄에 대한 관세를 두 배로 올리겠다는 발표와 중국과의 긴장에 뒤따른 것이었다.",
-        "originalSentenceText": "This decline followed President Trump's announcement to double duties on imported steel and aluminum and tensions with China"
-      },
-      {
-        "sentenceNumber": 3,
-        "units": [
-          {
-            "unit": "China's Commerce Ministry",
-            "role": "S",
-            "meaning": "주어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "중국 상무부는"
-          },
-          {
-            "unit": "called",
-            "role": "V",
-            "meaning": "동사",
-            "type": "Verb",
-            "is_main_unit": true,
-            "detail": "불렀다"
-          },
-          {
-            "unit": "the accusations",
-            "role": "O",
-            "meaning": "목적어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "그 비난들을"
-          },
-          {
-            "unit": "\"groundless\"",
-            "role": "O.C",
-            "meaning": "목적격 보어",
-            "type": "Object Complement Phrase",
-            "is_main_unit": true,
-            "detail": "\"근거 없다\"고"
-          },
-          {
-            "unit": "and",
-            "role": "conj",
-            "meaning": "그리고",
-            "type": "Conjunction",
-            "is_main_unit": true,
-            "detail": "and"
-          },
-          {
-            "unit": "planned",
-            "role": "V",
-            "meaning": "동사",
-            "type": "Verb",
-            "is_main_unit": true,
-            "detail": "계획했다"
-          },
-          {
-            "unit": "\"forceful measures\"",
-            "role": "O",
-            "meaning": "목적어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "\"강력한 조치들\"을"
-          },
-          {
-            "unit": "although Treasury Secretary Scott Bessent expressed belief that issues would be \"ironed out\"",
-            "role": "adc",
-            "meaning": "양보 부사절",
-            "type": "Adverbial Clause",
-            "is_main_unit": true,
-            "detail": "although"
-          },
-          {
-            "unit": "Treasury Secretary Scott Bessent",
-            "role": "S",
-            "meaning": "부사절 내 주어",
-            "type": "Noun Phrase",
-            "is_main_unit": false,
-            "detail": "스콧 베센트 재무장관이"
-          },
-          {
-            "unit": "expressed",
-            "role": "V",
-            "meaning": "부사절 내 동사",
-            "type": "Verb",
-            "is_main_unit": false,
-            "detail": "표명했다"
-          },
-          {
-            "unit": "belief",
-            "role": "O",
-            "meaning": "부사절 내 목적어",
-            "type": "Noun Phrase",
-            "is_main_unit": false,
-            "detail": "믿음을"
-          },
-          {
-            "unit": "that issues would be \"ironed out\"",
-            "role": "ncl",
-            "meaning": "belief와 동격인 명사절",
-            "type": "Noun Clause",
-            "is_main_unit": false,
-            "detail": "that"
-          },
-          {
-            "unit": "issues",
-            "role": "S",
-            "meaning": "명사절 내 주어",
-            "type": "Noun Phrase",
-            "is_main_unit": false,
-            "detail": "문제들이"
-          },
-          {
-            "unit": "would be \"ironed out\"",
-            "role": "V",
-            "meaning": "명사절 내 동사",
-            "type": "Verb",
-            "is_main_unit": false,
-            "detail": "해결될 것이다"
-          }
-        ],
-        "translatedSentenceText": "중국 상무부는 그 비난들이 \"근거 없다\"고 칭하며 \"강력한 조치들\"을 계획했지만, 스콧 베센트 재무장관은 문제들이 \"해결될 것\"이라는 믿음을 표명했다.",
-        "originalSentenceText": "China's Commerce Ministry called the accusations \"groundless\"and planned \"forceful measures\" although Treasury Secretary Scott Bessent expressed belief that issues would be \"ironed out\""
-      },
-      {
-        "sentenceNumber": 4,
-        "units": [
-          {
-            "unit": "The dollar",
-            "role": "S",
-            "meaning": "주어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "달러는"
-          },
-          {
-            "unit": "dropped",
-            "role": "V",
-            "meaning": "동사",
-            "type": "Verb",
-            "is_main_unit": true,
-            "detail": "하락했다"
-          },
-          {
-            "unit": "against the yen",
-            "role": "prep",
-            "meaning": "전치사구",
-            "type": "Prepositional Phrase",
-            "is_main_unit": true,
-            "detail": "엔화에 대해"
-          },
-          {
-            "unit": "while the euro and sterling gained",
-            "role": "adc",
-            "meaning": "대조/시간 부사절",
-            "type": "Adverbial Clause",
-            "is_main_unit": true,
-            "detail": "while"
-          },
-          {
-            "unit": "the euro and sterling",
-            "role": "S",
-            "meaning": "부사절 내 주어",
-            "type": "Noun Phrase",
-            "is_main_unit": false,
-            "detail": "유로화와 파운드화는"
-          },
-          {
-            "unit": "gained",
-            "role": "V",
-            "meaning": "부사절 내 동사",
-            "type": "Verb",
-            "is_main_unit": false,
-            "detail": "상승했다"
-          }
-        ],
-        "translatedSentenceText": "달러는 엔화에 대해 하락한 반면, 유로화와 파운드화는 상승했다.",
-        "originalSentenceText": "The dollar dropped against the yen while the euro and sterling gained"
-      },
-      {
-        "sentenceNumber": 5,
-        "units": [
-          {
-            "unit": "The Canadian dollar",
-            "role": "S",
-            "meaning": "주어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "캐나다 달러는"
-          },
-          {
-            "unit": "despite the tariff announcement",
-            "role": "prep",
-            "meaning": "양보 전치사구",
-            "type": "Prepositional Phrase",
-            "is_main_unit": true,
-            "detail": "관세 발표에도 불구하고"
-          },
-          {
-            "unit": "reached",
-            "role": "V",
-            "meaning": "동사",
-            "type": "Verb",
-            "is_main_unit": true,
-            "detail": "도달했다"
-          },
-          {
-            "unit": "an eight-month high",
-            "role": "O",
-            "meaning": "목적어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "8개월 만의 최고치에"
-          },
-          {
-            "unit": "against the U.S. dollar",
-            "role": "prep",
-            "meaning": "전치사구",
-            "type": "Prepositional Phrase",
-            "is_main_unit": true,
-            "detail": "미국 달러 대비"
-          }
-        ],
-        "translatedSentenceText": "캐나다 달러는 관세 발표에도 불구하고 미국 달러 대비 8개월 만의 최고치에 도달했다.",
-        "originalSentenceText": "The Canadian dollar despite the tariff announcement reached an eight-month high against the U.S. dollar"
-      },
-      {
-        "sentenceNumber": 6,
-        "units": [
-          {
-            "unit": "A broader index measuring the greenback against six major peers",
-            "role": "S",
-            "meaning": "주어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "6개 주요 상대 통화에 대한 달러 가치를 측정하는 더 넓은 지수가"
-          },
-          {
-            "unit": "A broader index",
-            "role": "S 내 핵심",
-            "meaning": "더 넓은 지수가",
-            "type": "Noun Phrase",
-            "is_main_unit": false
-          },
-          {
-            "unit": "measuring the greenback against six major peers",
-            "role": "part",
-            "meaning": "index를 수식하는 현재분사구",
-            "type": "Participial Phrase",
-            "is_main_unit": false,
-            "detail": "6개 주요 상대 통화에 대한 달러 가치를 측정하는"
-          },
-          {
-            "unit": "the greenback",
-            "role": "O of measuring",
-            "meaning": "달러 가치를",
-            "type": "Phrase",
-            "is_main_unit": false
-          },
-          {
-            "unit": "against six major peers",
-            "role": "prep",
-            "meaning": "~에 대한",
-            "type": "Prepositional Phrase",
-            "is_main_unit": false,
-            "detail": "6개 주요 상대 통화에 대한"
-          },
-          {
-            "unit": "also eased",
-            "role": "V",
-            "meaning": "동사",
-            "type": "Verb",
-            "is_main_unit": true,
-            "detail": "또한 하락했다"
-          }
-        ],
-        "translatedSentenceText": "6개 주요 상대 통화에 대한 달러 가치를 측정하는 더 넓은 지수 또한 하락했다.",
-        "originalSentenceText": "A broader index measuring the greenback against six major peers also eased"
-      },
-      {
-        "sentenceNumber": 7,
-        "units": [
-          {
-            "unit": "Some analysts",
-            "role": "S",
-            "meaning": "주어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "일부 분석가들은"
-          },
-          {
-            "unit": "suggest",
-            "role": "V",
-            "meaning": "동사",
-            "type": "Verb",
-            "is_main_unit": true,
-            "detail": "시사한다"
-          },
-          {
-            "unit": "that U.S. protectionist trade policies increase the risk of stagflation, which could further weaken the dollar",
-            "role": "O",
-            "meaning": "명사절 목적어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "that"
-          },
-          {
-            "unit": "U.S. protectionist trade policies",
-            "role": "S",
-            "meaning": "명사절 내 주어",
-            "type": "Noun Phrase",
-            "is_main_unit": false,
-            "detail": "미국의 보호무역 정책이"
-          },
-          {
-            "unit": "increase",
-            "role": "V",
-            "meaning": "명사절 내 동사",
-            "type": "Verb",
-            "is_main_unit": false,
-            "detail": "증가시킨다"
-          },
-          {
-            "unit": "the risk of stagflation",
-            "role": "O",
-            "meaning": "명사절 내 목적어",
-            "type": "Noun Phrase",
-            "is_main_unit": false,
-            "detail": "스태그플레이션의 위험을"
-          },
-          {
-            "unit": "which could further weaken the dollar",
-            "role": "ac",
-            "meaning": "stagflation을 수식하는 관계대명사절",
-            "type": "Adjective Clause",
-            "is_main_unit": false,
-            "detail": "which"
-          },
-          {
-            "unit": "which",
-            "role": "S",
-            "meaning": "관계대명사절 내 주어",
-            "type": "Noun Phrase",
-            "is_main_unit": false,
-            "detail": "그것은"
-          },
-          {
-            "unit": "could further weaken",
-            "role": "V",
-            "meaning": "관계대명사절 내 동사",
-            "type": "Verb",
-            "is_main_unit": false,
-            "detail": "더욱 약화시킬 수 있다"
-          },
-          {
-            "unit": "the dollar",
-            "role": "O",
-            "meaning": "관계대명사절 내 목적어",
-            "type": "Noun Phrase",
-            "is_main_unit": false,
-            "detail": "달러를"
-          }
-        ],
-        "translatedSentenceText": "일부 분석가들은 미국의 보호무역 정책이 스태그플레이션 위험을 증가시키며, 이는 달러를 더욱 약화시킬 수 있다고 시사한다.",
-        "originalSentenceText": "Some analysts suggest that U.S. protectionist trade policies increase the risk of stagflation, which could further weaken the dollar"
-      },
-      {
-        "sentenceNumber": 8,
-        "units": [
-          {
-            "unit": "The dollar",
-            "role": "S",
-            "meaning": "주어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "달러는"
-          },
-          {
-            "unit": "has been significantly affected",
-            "role": "V",
-            "meaning": "동사",
-            "type": "Verb",
-            "is_main_unit": true,
-            "detail": "현재완료 수동태; 상당히 영향을 받아왔다"
-          },
-          {
-            "unit": "by Trump's trade policies and uncertainties",
-            "role": "prep",
-            "meaning": "행위자 전치사구",
-            "type": "Prepositional Phrase",
-            "is_main_unit": true,
-            "detail": "트럼프의 무역 정책과 불확실성에 의해"
-          }
-        ],
-        "translatedSentenceText": "달러는 트럼프의 무역 정책과 불확실성에 의해 상당히 영향을 받아왔다.",
-        "originalSentenceText": "The dollar has been significantly affected by Trump's trade policies and uncertainties"
-      },
-      {
-        "sentenceNumber": 9,
-        "units": [
-          {
-            "unit": "Concerns about a potential U.S. recession triggered by trade tensions",
-            "role": "S",
-            "meaning": "주어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "무역 긴장으로 촉발된 잠재적인 미국 경기 침체에 대한 우려가"
-          },
-          {
-            "unit": "Concerns",
-            "role": "S 내 핵심",
-            "meaning": "우려가",
-            "type": "Noun Phrase",
-            "is_main_unit": false
-          },
-          {
-            "unit": "about a potential U.S. recession",
-            "role": "prep",
-            "meaning": "Concerns를 수식",
-            "type": "Prepositional Phrase",
-            "is_main_unit": false,
-            "detail": "잠재적인 미국 경기 침체에 대한"
-          },
-          {
-            "unit": "triggered by trade tensions",
-            "role": "part",
-            "meaning": "recession을 수식",
-            "type": "Participial Phrase",
-            "is_main_unit": false,
-            "detail": "무역 긴장으로 촉발된"
-          },
-          {
-            "unit": "have led",
-            "role": "V",
-            "meaning": "동사",
-            "type": "Verb",
-            "is_main_unit": true,
-            "detail": "현재완료; 이끌었다"
-          },
-          {
-            "unit": "investors",
-            "role": "O",
-            "meaning": "목적어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "투자자들이"
-          },
-          {
-            "unit": "to question the dollar's safe-haven status",
-            "role": "O.C",
-            "meaning": "목적격 보어",
-            "type": "Object Complement Phrase",
-            "is_main_unit": true,
-            "detail": "달러의 안전자산 지위에 의문을 제기하도록"
-          }
-        ],
-        "translatedSentenceText": "무역 긴장으로 촉발된 잠재적인 미국 경기 침체에 대한 우려로 인해 투자자들은 달러의 안전자산 지위에 의문을 제기하게 되었다.",
-        "originalSentenceText": "Concerns about a potential U.S. recession triggered by trade tensions have led investors to question the dollar's safe-haven status"
-      },
-      {
-        "sentenceNumber": 10,
-        "units": [
-          {
-            "unit": "The dollar",
-            "role": "S",
-            "meaning": "주어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "달러는"
-          },
-          {
-            "unit": "had fallen",
-            "role": "V",
-            "meaning": "동사",
-            "type": "Verb",
-            "is_main_unit": true,
-            "detail": "과거완료; 하락했었다"
-          },
-          {
-            "unit": "against major peers",
-            "role": "prep",
-            "meaning": "전치사구",
-            "type": "Prepositional Phrase",
-            "is_main_unit": true,
-            "detail": "주요 상대 통화들에 대해"
-          },
-          {
-            "unit": "since \"Liberation Day\" tariffs",
-            "role": "prep",
-            "meaning": "시간 전치사구",
-            "type": "Prepositional Phrase",
-            "is_main_unit": true,
-            "detail": "\"해방의 날\" 관세 이후로"
-          },
-          {
-            "unit": "and",
-            "role": "conj",
-            "meaning": "그리고",
-            "type": "Conjunction",
-            "is_main_unit": true,
-            "detail": "and"
-          },
-          {
-            "unit": "further declined",
-            "role": "V",
-            "meaning": "동사",
-            "type": "Verb",
-            "is_main_unit": true,
-            "detail": "더욱 하락했다"
-          },
-          {
-            "unit": "in the last two weeks",
-            "role": "prep",
-            "meaning": "시간 전치사구",
-            "type": "Prepositional Phrase",
-            "is_main_unit": true,
-            "detail": "지난 2주 동안"
-          },
-          {
-            "unit": "when Trump threatened 50% levies on Europe and then postponed them",
-            "role": "adc",
-            "meaning": "the last two weeks를 수식하는 관계부사절",
-            "type": "Adverbial Clause",
-            "is_main_unit": false,
-            "detail": "when"
-          },
-          {
-            "unit": "Trump",
-            "role": "S",
-            "meaning": "관계부사절 내 주어",
-            "type": "Noun Phrase",
-            "is_main_unit": false,
-            "detail": "트럼프가"
-          },
-          {
-            "unit": "threatened",
-            "role": "V",
-            "meaning": "관계부사절 내 첫 번째 동사",
-            "type": "Verb",
-            "is_main_unit": false,
-            "detail": "위협했다"
-          },
-          {
-            "unit": "50% levies on Europe",
-            "role": "O",
-            "meaning": "threatened의 목적어",
-            "type": "Noun Phrase",
-            "is_main_unit": false,
-            "detail": "유럽에 50% 관세를"
-          },
-          {
-            "unit": "and",
-            "role": "conj",
-            "meaning": "그리고",
-            "type": "Conjunction",
-            "is_main_unit": false,
-            "detail": "and"
-          },
-          {
-            "unit": "then postponed",
-            "role": "V",
-            "meaning": "관계부사절 내 두 번째 동사",
-            "type": "Verb",
-            "is_main_unit": false,
-            "detail": "그리고 나서 연기했다"
-          },
-          {
-            "unit": "them",
-            "role": "O",
-            "meaning": "postponed의 목적어",
-            "type": "Noun Phrase",
-            "is_main_unit": false,
-            "detail": "그것들을"
-          }
-        ],
-        "translatedSentenceText": "달러는 \"해방의 날\" 관세 이후 주요 상대 통화들에 대해 하락했었고, 트럼프가 유럽에 50% 관세를 부과하겠다고 위협했다가 연기했던 지난 2주 동안 더욱 하락했다.",
-        "originalSentenceText": "The dollar had fallen against major peers since \"Liberation Day\" tariffsand further declined in the last two weeks"
-      },
-      {
-        "sentenceNumber": 11,
-        "units": [
-          {
-            "unit": "Last week,",
-            "role": "adp",
-            "meaning": "부사구",
-            "type": "Adverbial Phrase",
-            "is_main_unit": true,
-            "detail": "지난주에"
-          },
-          {
-            "unit": "the greenback",
-            "role": "S",
-            "meaning": "주어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "달러는"
-          },
-          {
-            "unit": "got",
-            "role": "V",
-            "meaning": "동사",
-            "type": "Verb",
-            "is_main_unit": true,
-            "detail": "얻었다"
-          },
-          {
-            "unit": "a bit of respite",
-            "role": "O",
-            "meaning": "목적어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "약간의 유예 기간을"
-          },
-          {
-            "unit": "rising",
-            "role": "part",
-            "meaning": "동시상황 분사구문",
-            "type": "Participial Phrase",
-            "is_main_unit": true,
-            "detail": "상승하면서"
-          },
-          {
-            "unit": "0.3%",
-            "role": "O of rising",
-            "meaning": "0.3%",
-            "type": "Phrase",
-            "is_main_unit": true
-          },
-          {
-            "unit": "after talks with the European Union got back on track and a U.S. trade court blocked the bulk of Trump's tariffs on the grounds that he overstepped his authority",
-            "role": "adc",
-            "meaning": "시간/이유 부사절",
-            "type": "Adverbial Clause",
-            "is_main_unit": true,
-            "detail": "after"
-          },
-          {
-            "unit": "talks with the European Union",
-            "role": "S",
-            "meaning": "첫 번째 부사절 주어",
-            "type": "Noun Phrase",
-            "is_main_unit": false,
-            "detail": "유럽 연합과의 회담이"
-          },
-          {
-            "unit": "got back on track",
-            "role": "V",
-            "meaning": "첫 번째 부사절 동사",
-            "type": "Verb",
-            "is_main_unit": false,
-            "detail": "정상 궤도에 오르고"
-          },
-          {
-            "unit": "and",
-            "role": "conj",
-            "meaning": "그리고",
-            "type": "Conjunction",
-            "is_main_unit": false,
-            "detail": "and"
-          },
-          {
-            "unit": "a U.S. trade court",
-            "role": "S",
-            "meaning": "두 번째 부사절 주어",
-            "type": "Noun Phrase",
-            "is_main_unit": false,
-            "detail": "미국 무역 법원이"
-          },
-          {
-            "unit": "blocked",
-            "role": "V",
-            "meaning": "두 번째 부사절 동사",
-            "type": "Verb",
-            "is_main_unit": false,
-            "detail": "막았다"
-          },
-          {
-            "unit": "the bulk of Trump's tariffs",
-            "role": "O",
-            "meaning": "두 번째 부사절 목적어",
-            "type": "Noun Phrase",
-            "is_main_unit": false,
-            "detail": "트럼프 관세의 대부분을"
-          },
-          {
-            "unit": "on the grounds that he overstepped his authority",
-            "role": "prep",
-            "meaning": "이유 전치사구",
-            "type": "Prepositional Phrase",
-            "is_main_unit": false,
-            "detail": "that (grounds의 동격절을 이끎)"
-          },
-          {
-            "unit": "he",
-            "role": "S",
-            "meaning": "grounds의 동격절 주어",
-            "type": "Noun Phrase",
-            "is_main_unit": false,
-            "detail": "그가"
-          },
-          {
-            "unit": "overstepped",
-            "role": "V",
-            "meaning": "grounds의 동격절 동사",
-            "type": "Verb",
-            "is_main_unit": false,
-            "detail": "남용했다"
-          },
-          {
-            "unit": "his authority",
-            "role": "O",
-            "meaning": "grounds의 동격절 목적어",
-            "type": "Noun Phrase",
-            "is_main_unit": false,
-            "detail": "그의 권한을"
-          }
-        ],
-        "translatedSentenceText": "지난주, 유럽 연합과의 회담이 정상 궤도에 오르고 미국 무역 법원이 트럼프가 권한을 남용했다는 이유로 그의 관세 대부분을 막은 후, 달러는 0.3% 상승하며 약간의 유예 기간을 얻었다.",
-        "originalSentenceText": "Last week, the greenback got a bit of respite rising 0.3% after talks with the European Union got back on track and a U.S. trade court blocked the bulk of Trump's tariffs on the grounds that he overstepped his authority"
-      },
-      {
-        "sentenceNumber": 12,
-        "units": [
-          {
-            "unit": "An appeals court",
-            "role": "S",
-            "meaning": "주어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "항소 법원이"
-          },
-          {
-            "unit": "reinstated",
-            "role": "V",
-            "meaning": "동사",
-            "type": "Verb",
-            "is_main_unit": true,
-            "detail": "복원시켰다"
-          },
-          {
-            "unit": "the duties",
-            "role": "O",
-            "meaning": "목적어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "그 관세들을"
-          },
-          {
-            "unit": "a day later",
-            "role": "adp",
-            "meaning": "부사구",
-            "type": "Adverbial Phrase",
-            "is_main_unit": true,
-            "detail": "하루 뒤에"
-          },
-          {
-            "unit": "and",
-            "role": "conj",
-            "meaning": "그리고",
-            "type": "Conjunction",
-            "is_main_unit": true,
-            "detail": "and"
-          },
-          {
-            "unit": "Trump's administration",
-            "role": "S",
-            "meaning": "주어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "트럼프 행정부는"
-          },
-          {
-            "unit": "said",
-            "role": "V",
-            "meaning": "동사",
-            "type": "Verb",
-            "is_main_unit": true,
-            "detail": "말했다"
-          },
-          {
-            "unit": "it had other avenues to implement the levies if it loses in court",
-            "role": "O",
-            "meaning": "명사절 목적어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "(that 생략)"
-          },
-          {
-            "unit": "it",
-            "role": "S",
-            "meaning": "명사절 내 주어",
-            "type": "Noun Phrase",
-            "is_main_unit": false,
-            "detail": "행정부가"
-          },
-          {
-            "unit": "had",
-            "role": "V",
-            "meaning": "명사절 내 동사",
-            "type": "Verb",
-            "is_main_unit": false,
-            "detail": "가지고 있다고"
-          },
-          {
-            "unit": "other avenues",
-            "role": "O",
-            "meaning": "명사절 내 목적어",
-            "type": "Noun Phrase",
-            "is_main_unit": false,
-            "detail": "다른 방안들을"
-          },
-          {
-            "unit": "to implement the levies",
-            "role": "inf",
-            "meaning": "avenues를 수식",
-            "type": "Infinitive Phrase",
-            "is_main_unit": false,
-            "detail": "관세를 시행할"
-          },
-          {
-            "unit": "if it loses in court",
-            "role": "adc",
-            "meaning": "조건 부사절",
-            "type": "Adverbial Clause",
-            "is_main_unit": false,
-            "detail": "if"
-          },
-          {
-            "unit": "it",
-            "role": "S",
-            "meaning": "조건 부사절 내 주어",
-            "type": "Noun Phrase",
-            "is_main_unit": false,
-            "detail": "행정부가"
-          },
-          {
-            "unit": "loses",
-            "role": "V",
-            "meaning": "조건 부사절 내 동사",
-            "type": "Verb",
-            "is_main_unit": false,
-            "detail": "패소한다"
-          },
-          {
-            "unit": "in court",
-            "role": "prep",
-            "meaning": "전치사구",
-            "type": "Prepositional Phrase",
-            "is_main_unit": false,
-            "detail": "법정에서"
-          },
-          {
-            "unit": "but",
-            "role": "conj",
-            "meaning": "그러나",
-            "type": "Conjunction",
-            "is_main_unit": true,
-            "detail": "but"
-          },
-          {
-            "unit": "many analysts",
-            "role": "S",
-            "meaning": "주어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "많은 분석가들은"
-          },
-          {
-            "unit": "said",
-            "role": "V",
-            "meaning": "동사",
-            "type": "Verb",
-            "is_main_unit": true,
-            "detail": "말했다"
-          },
-          {
-            "unit": "it showed there were still checks in place on the president's power",
-            "role": "O",
-            "meaning": "명사절 목적어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "(that 생략)"
-          },
-          {
-            "unit": "it",
-            "role": "S",
-            "meaning": "첫 번째 명사절 내 주어",
-            "type": "Noun Phrase",
-            "is_main_unit": false,
-            "detail": "그것이"
-          },
-          {
-            "unit": "showed",
-            "role": "V",
-            "meaning": "첫 번째 명사절 내 동사",
-            "type": "Verb",
-            "is_main_unit": false,
-            "detail": "보여준다고"
-          },
-          {
-            "unit": "there were still checks in place on the president's power",
-            "role": "O",
-            "meaning": "showed의 목적어인 명사절",
-            "type": "Noun Phrase",
-            "is_main_unit": false,
-            "detail": "(that 생략)"
-          },
-          {
-            "unit": "were",
-            "role": "V",
-            "meaning": "두 번째 명사절 내 동사",
-            "type": "Verb",
-            "is_main_unit": false,
-            "detail": "있었다"
-          },
-          {
-            "unit": "still checks",
-            "role": "S",
-            "meaning": "두 번째 명사절 내 진주어",
-            "type": "Noun Phrase",
-            "is_main_unit": false,
-            "detail": "여전히 견제 장치가"
-          },
-          {
-            "unit": "in place",
-            "role": "prep",
-            "meaning": "checks를 수식",
-            "type": "Prepositional Phrase",
-            "is_main_unit": false,
-            "detail": "제자리에, 존재하는"
-          },
-          {
-            "unit": "on the president's power",
-            "role": "prep",
-            "meaning": "checks를 수식",
-            "type": "Prepositional Phrase",
-            "is_main_unit": false,
-            "detail": "대통령의 권력에 대한"
-          }
-        ],
-        "translatedSentenceText": "하루 뒤 항소 법원이 그 관세들을 복원시켰고, 트럼프 행정부는 법정에서 패소할 경우 관세를 시행할 다른 방안들이 있다고 말했지만, 많은 분석가들은 그것이 대통령의 권력에 대한 견제 장치가 여전히 존재함을 보여준다고 말했다.",
-        "originalSentenceText": "An appeals court reinstated the duties a day laterand Trump's administration said it had other avenues to implement the levies if it loses in courtbut many analysts said it showed there were still checks in place on the president's power"
-      },
-      {
-        "sentenceNumber": 13,
-        "units": [
-          {
-            "unit": "Goldman Sachs",
-            "role": "S",
-            "meaning": "주어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "골드만삭스는"
-          },
-          {
-            "unit": "said",
-            "role": "V",
-            "meaning": "동사",
-            "type": "Verb",
-            "is_main_unit": true,
-            "detail": "말했다"
-          },
-          {
-            "unit": "it expected the 10% tariff floor for major trading partners to remain, in addition to sectoral tariffs",
-            "role": "O",
-            "meaning": "명사절 목적어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "(that 생략)"
-          },
-          {
-            "unit": "it",
-            "role": "S",
-            "meaning": "명사절 내 주어",
-            "type": "Noun Phrase",
-            "is_main_unit": false,
-            "detail": "골드만삭스가"
-          },
-          {
-            "unit": "expected",
-            "role": "V",
-            "meaning": "명사절 내 동사",
-            "type": "Verb",
-            "is_main_unit": false,
-            "detail": "예상한다고"
-          },
-          {
-            "unit": "the 10% tariff floor for major trading partners",
-            "role": "O",
-            "meaning": "expected의 목적어",
-            "type": "Noun Phrase",
-            "is_main_unit": false,
-            "detail": "주요 교역 상대국에 대한 10% 관세 하한선이"
-          },
-          {
-            "unit": "to remain",
-            "role": "O.C",
-            "meaning": "목적격 보어",
-            "type": "Object Complement Phrase",
-            "is_main_unit": false,
-            "detail": "유지될 것을"
-          },
-          {
-            "unit": "in addition to sectoral tariffs",
-            "role": "prep",
-            "meaning": "전치사구",
-            "type": "Prepositional Phrase",
-            "is_main_unit": false,
-            "detail": "부문별 관세 외에도"
-          }
-        ],
-        "translatedSentenceText": "골드만삭스는 부문별 관세 외에도 주요 교역 상대국에 대한 10% 관세 하한선이 유지될 것으로 예상한다고 말했다.",
-        "originalSentenceText": "Goldman Sachs said it expected the 10% tariff floor for major trading partners to remain, in addition to sectoral tariffs"
-      },
-      {
-        "sentenceNumber": 14,
-        "units": [
-          {
-            "unit": "\"The risk remains",
-            "role": "S+V",
-            "meaning": "주절",
-            "type": "Phrase",
-            "is_main_unit": true,
-            "detail": "위험은 남아있다"
-          },
-          {
-            "unit": "that if tariffs are impeded, attention may shift to other ways of raising revenues which may be even more negative for the dollar,\"",
-            "role": "ncl",
-            "meaning": "risk와 동격인 명사절",
-            "type": "Noun Clause",
-            "is_main_unit": true,
-            "detail": "that"
-          },
-          {
-            "unit": "if tariffs are impeded",
-            "role": "adc",
-            "meaning": "조건 부사절",
-            "type": "Adverbial Clause",
-            "is_main_unit": false,
-            "detail": "if"
-          },
-          {
-            "unit": "tariffs",
-            "role": "S",
-            "meaning": "조건 부사절 내 주어",
-            "type": "Noun Phrase",
-            "is_main_unit": false,
-            "detail": "관세가"
-          },
-          {
-            "unit": "are impeded",
-            "role": "V",
-            "meaning": "조건 부사절 내 동사",
-            "type": "Verb",
-            "is_main_unit": false,
-            "detail": "방해받는다"
-          },
-          {
-            "unit": "attention",
-            "role": "S",
-            "meaning": "명사절 내 주어",
-            "type": "Noun Phrase",
-            "is_main_unit": false,
-            "detail": "관심이"
-          },
-          {
-            "unit": "may shift",
-            "role": "V",
-            "meaning": "명사절 내 동사",
-            "type": "Verb",
-            "is_main_unit": false,
-            "detail": "옮겨갈 수 있다"
-          },
-          {
-            "unit": "to other ways of raising revenues",
-            "role": "prep",
-            "meaning": "전치사구",
-            "type": "Prepositional Phrase",
-            "is_main_unit": false,
-            "detail": "다른 세입 확보 방법으로"
-          },
-          {
-            "unit": "which may be even more negative for the dollar",
-            "role": "ac",
-            "meaning": "ways를 수식하는 관계대명사절",
-            "type": "Adjective Clause",
-            "is_main_unit": false,
-            "detail": "which"
-          },
-          {
-            "unit": "which",
-            "role": "S",
-            "meaning": "관계대명사절 내 주어",
-            "type": "Noun Phrase",
-            "is_main_unit": false,
-            "detail": "그것이"
-          },
-          {
-            "unit": "may be",
-            "role": "V",
-            "meaning": "관계대명사절 내 동사",
-            "type": "Verb",
-            "is_main_unit": false,
-            "detail": "~일 수 있다"
-          },
-          {
-            "unit": "even more negative",
-            "role": "S.C",
-            "meaning": "관계대명사절 내 보어",
-            "type": "Subject Complement Phrase",
-            "is_main_unit": false,
-            "detail": "훨씬 더 부정적인"
-          },
-          {
-            "unit": "for the dollar",
-            "role": "prep",
-            "meaning": "전치사구",
-            "type": "Prepositional Phrase",
-            "is_main_unit": false,
-            "detail": "달러에"
-          },
-          {
-            "unit": "Goldman analysts",
-            "role": "S",
-            "meaning": "주어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "골드만 분석가들은"
-          },
-          {
-            "unit": "said",
-            "role": "V",
-            "meaning": "동사",
-            "type": "Verb",
-            "is_main_unit": true,
-            "detail": "말했다"
-          },
-          {
-            "unit": "in a note",
-            "role": "prep",
-            "meaning": "전치사구",
-            "type": "Prepositional Phrase",
-            "is_main_unit": true,
-            "detail": "보고서에서"
-          }
-        ],
-        "translatedSentenceText": "\"만약 관세가 방해받으면, 관심이 달러에 훨씬 더 부정적일 수 있는 다른 세입 확보 방법으로 옮겨갈 수 있다는 위험은 남아있다\"고 골드만 분석가들은 보고서에서 말했다.",
-        "originalSentenceText": "\"The risk remains that if tariffs are impeded, attention may shift to other ways of raising revenues which may be even more negative for the dollar,\" Goldman analysts said in a note"
-      },
-      {
-        "sentenceNumber": 15,
-        "units": [
-          {
-            "unit": "Fiscal worries",
-            "role": "S",
-            "meaning": "주어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "재정적 우려도"
-          },
-          {
-            "unit": "have also given rise",
-            "role": "V",
-            "meaning": "동사",
-            "type": "Verb",
-            "is_main_unit": true,
-            "detail": "현재완료; 또한 야기해왔다"
-          },
-          {
-            "unit": "to a broad \"Sell America\" theme",
-            "role": "prep",
-            "meaning": "전치사구",
-            "type": "Prepositional Phrase",
-            "is_main_unit": true,
-            "detail": "광범위한 \"미국 자산 매도\" 분위기를"
-          },
-          {
-            "unit": "that has seen dollar assets from stocks to Treasury bonds dropping in recent months",
-            "role": "ac",
-            "meaning": "theme을 수식하는 관계대명사절",
-            "type": "Adjective Clause",
-            "is_main_unit": false,
-            "detail": "that"
-          },
-          {
-            "unit": "that",
-            "role": "S",
-            "meaning": "관계대명사절 내 주어",
-            "type": "Noun Phrase",
-            "is_main_unit": false,
-            "detail": "그것이"
-          },
-          {
-            "unit": "has seen",
-            "role": "V",
-            "meaning": "관계대명사절 내 동사",
-            "type": "Verb",
-            "is_main_unit": false,
-            "detail": "보아왔다"
-          },
-          {
-            "unit": "dollar assets from stocks to Treasury bonds",
-            "role": "O",
-            "meaning": "seen의 목적어",
-            "type": "Noun Phrase",
-            "is_main_unit": false,
-            "detail": "주식에서 국채에 이르는 달러 자산이"
-          },
-          {
-            "unit": "dropping in recent months",
-            "role": "O.C",
-            "meaning": "목적격 보어 - 현재분사구",
-            "type": "Object Complement Phrase",
-            "is_main_unit": false,
-            "detail": "최근 몇 달 동안 하락하는 것을"
-          }
-        ],
-        "translatedSentenceText": "재정적 우려 또한 최근 몇 달 동안 주식에서 국채에 이르는 달러 자산이 하락하는 것을 보아온 광범위한 \"미국 자산 매도\" 분위기를 야기해왔다.",
-        "originalSentenceText": "Fiscal worries have also given rise to a broad \"Sell America\" theme"
-      },
-      {
-        "sentenceNumber": 16,
-        "units": [
-          {
-            "unit": "Those concerns",
-            "role": "S",
-            "meaning": "주어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "그러한 우려들은"
-          },
-          {
-            "unit": "come into particular focus",
-            "role": "V",
-            "meaning": "동사구",
-            "type": "Verb",
-            "is_main_unit": true,
-            "detail": "특히 주목받는다"
-          },
-          {
-            "unit": "this week",
-            "role": "adp",
-            "meaning": "부사구",
-            "type": "Adverbial Phrase",
-            "is_main_unit": true,
-            "detail": "이번 주에"
-          },
-          {
-            "unit": "as the Senate starts considering Trump's sweeping tax cut and spending bill,",
-            "role": "adc",
-            "meaning": "시간/이유 부사절",
-            "type": "Adverbial Clause",
-            "is_main_unit": true,
-            "detail": "as"
-          },
-          {
-            "unit": "the Senate",
-            "role": "S",
-            "meaning": "부사절 내 주어",
-            "type": "Noun Phrase",
-            "is_main_unit": false,
-            "detail": "상원이"
-          },
-          {
-            "unit": "starts",
-            "role": "V",
-            "meaning": "부사절 내 동사",
-            "type": "Verb",
-            "is_main_unit": false,
-            "detail": "시작한다"
-          },
-          {
-            "unit": "considering Trump's sweeping tax cut and spending bill",
-            "role": "O of starts",
-            "meaning": "동명사구 목적어",
-            "type": "Phrase",
-            "is_main_unit": false,
-            "detail": "트럼프의 대규모 세금 감면 및 지출 법안 심의를"
-          },
-          {
-            "unit": "which will add an estimated $3.8 trillion to the federal government's $36.2 trillion in debt over the next decade",
-            "role": "ac",
-            "meaning": "bill을 수식하는 관계대명사절",
-            "type": "Adjective Clause",
-            "is_main_unit": false,
-            "detail": "which"
-          },
-          {
-            "unit": "which",
-            "role": "S",
-            "meaning": "관계대명사절 내 주어",
-            "type": "Noun Phrase",
-            "is_main_unit": false,
-            "detail": "그것이"
-          },
-          {
-            "unit": "will add",
-            "role": "V",
-            "meaning": "관계대명사절 내 동사",
-            "type": "Verb",
-            "is_main_unit": false,
-            "detail": "추가할 것이다"
-          },
-          {
-            "unit": "an estimated $3.8 trillion",
-            "role": "O",
-            "meaning": "관계대명사절 내 목적어",
-            "type": "Noun Phrase",
-            "is_main_unit": false,
-            "detail": "약 3조 8천억 달러를"
-          },
-          {
-            "unit": "to the federal government's $36.2 trillion in debt",
-            "role": "prep",
-            "meaning": "전치사구",
-            "type": "Prepositional Phrase",
-            "is_main_unit": false,
-            "detail": "연방 정부 부채 36조 2천억 달러에"
-          },
-          {
-            "unit": "over the next decade",
-            "role": "prep",
-            "meaning": "전치사구",
-            "type": "Prepositional Phrase",
-            "is_main_unit": false,
-            "detail": "향후 10년간"
-          }
-        ],
-        "translatedSentenceText": "상원이 향후 10년간 연방 정부 부채 36조 2천억 달러에 약 3조 8천억 달러를 추가할 트럼프의 대규모 세금 감면 및 지출 법안 심의를 시작함에 따라, 그러한 우려들은 이번 주에 특히 주목받는다.",
-        "originalSentenceText": "Those concerns come into particular focus this week as the Senate starts considering Trump's sweeping tax cut and spending bill,"
-      },
-      {
-        "sentenceNumber": 17,
-        "units": [
-          {
-            "unit": "Many senators",
-            "role": "S",
-            "meaning": "주어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "많은 상원의원들은"
-          },
-          {
-            "unit": "have already said",
-            "role": "V",
-            "meaning": "동사",
-            "type": "Verb",
-            "is_main_unit": true,
-            "detail": "현재완료; 이미 말했다"
-          },
-          {
-            "unit": "the bill will need major revisions",
-            "role": "O",
-            "meaning": "명사절 목적어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "(that 생략)"
-          },
-          {
-            "unit": "and",
-            "role": "conj",
-            "meaning": "그리고",
-            "type": "Conjunction",
-            "is_main_unit": true,
-            "detail": "and"
-          },
-          {
-            "unit": "Trump",
-            "role": "S",
-            "meaning": "주어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "트럼프는"
-          },
-          {
-            "unit": "said",
-            "role": "V",
-            "meaning": "동사",
-            "type": "Verb",
-            "is_main_unit": true,
-            "detail": "말했다"
-          },
-          {
-            "unit": "he welcomed changes",
-            "role": "O",
-            "meaning": "명사절 목적어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "(that 생략)"
-          }
-        ],
-        "translatedSentenceText": "많은 상원의원들은 이미 그 법안이 대대적인 수정이 필요할 것이라고 말했고, 트럼프는 그가 변경을 환영한다고 말했다.",
-        "originalSentenceText": "Many senators have already said the bill will need major revisionsand Trump said he welcomed changes"
-      },
-      {
-        "sentenceNumber": 18,
-        "units": [
-          {
-            "unit": "The fate of section 899 of the bill",
-            "role": "S",
-            "meaning": "주어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "그 법안의 899조의 운명은"
-          },
-          {
-            "unit": "could be crucial",
-            "role": "V",
-            "meaning": "동사+보어",
-            "type": "Verb",
-            "is_main_unit": true,
-            "detail": "중요할 수 있다"
-          },
-          {
-            "unit": "according to Barclays analysts",
-            "role": "prep",
-            "meaning": "전치사구",
-            "type": "Prepositional Phrase",
-            "is_main_unit": true,
-            "detail": "바클레이즈 분석가들에 따르면"
-          }
-        ],
-        "translatedSentenceText": "바클레이즈 분석가들에 따르면, 그 법안의 899조의 운명은 중요할 수 있다.",
-        "originalSentenceText": "The fate of section 899 of the bill could be crucial according to Barclays analysts"
-      },
-      {
-        "sentenceNumber": 19,
-        "units": [
-          {
-            "unit": "\"S899",
-            "role": "S",
-            "meaning": "주어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "S899조는"
-          },
-          {
-            "unit": "would give",
-            "role": "V",
-            "meaning": "동사",
-            "type": "Verb",
-            "is_main_unit": true,
-            "detail": "줄 것이다"
-          },
-          {
-            "unit": "the U.S.",
-            "role": "I.O",
-            "meaning": "간접목적어",
-            "type": "Phrase",
-            "is_main_unit": true,
-            "detail": "미국에게"
-          },
-          {
-            "unit": "free rein",
-            "role": "D.O",
-            "meaning": "직접목적어",
-            "type": "Phrase",
-            "is_main_unit": true,
-            "detail": "자유재량권을"
-          },
-          {
-            "unit": "to tax companies and investors from countries deemed to have 'unfair foreign taxes'",
-            "role": "inf",
-            "meaning": "rein을 수식하는 부정사구",
-            "type": "Infinitive Phrase",
-            "is_main_unit": false,
-            "detail": "'불공정한 해외 세금'을 가진 것으로 간주되는 국가의 기업과 투자자에게 세금을 부과할"
-          },
-          {
-            "unit": "(and)",
-            "role": "conj",
-            "meaning": "그리고",
-            "type": "Conjunction",
-            "is_main_unit": true,
-            "detail": "and (문맥상 추론)"
-          },
-          {
-            "unit": "could be seen",
-            "role": "V",
-            "meaning": "동사",
-            "type": "Verb",
-            "is_main_unit": true,
-            "detail": "수동태; 간주될 수 있다"
-          },
-          {
-            "unit": "as a tax on the U.S. capital account",
-            "role": "prep",
-            "meaning": "전치사구 보어",
-            "type": "Prepositional Phrase",
-            "is_main_unit": true,
-            "detail": "미국 자본 계정에 대한 세금으로"
-          },
-          {
-            "unit": "at a time when investor nervousness towards U.S. assets has grown,\"",
-            "role": "adp",
-            "meaning": "시간을 나타내는 부사구",
-            "type": "Adverbial Phrase",
-            "is_main_unit": true,
-            "detail": "when (time을 수식)"
-          },
-          {
-            "unit": "investor nervousness towards U.S. assets",
-            "role": "S",
-            "meaning": "부사절 내 주어",
-            "type": "Noun Phrase",
-            "is_main_unit": false,
-            "detail": "미국 자산에 대한 투자자들의 불안감이"
-          },
-          {
-            "unit": "has grown",
-            "role": "V",
-            "meaning": "부사절 내 동사",
-            "type": "Verb",
-            "is_main_unit": false,
-            "detail": "커졌다"
-          },
-          {
-            "unit": "they",
-            "role": "S",
-            "meaning": "주어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "그들은"
-          },
-          {
-            "unit": "said",
-            "role": "V",
-            "meaning": "동사",
-            "type": "Verb",
-            "is_main_unit": true,
-            "detail": "말했다"
-          },
-          {
-            "unit": "in a research report",
-            "role": "prep",
-            "meaning": "전치사구",
-            "type": "Prepositional Phrase",
-            "is_main_unit": true,
-            "detail": "연구 보고서에서"
-          }
-        ],
-        "translatedSentenceText": "\"S899조는 미국에게 '불공정한 해외 세금'을 가진 것으로 간주되는 국가의 기업과 투자자에게 세금을 부과할 자유재량권을 줄 것이며, 미국 자산에 대한 투자자들의 불안감이 커진 시기에 미국 자본 계정에 대한 세금으로 간주될 수 있다\"고 그들은 연구 보고서에서 말했다.",
-        "originalSentenceText": "\"S899 would give the U.S. free rein(and) could be seen as a tax on the U.S. capital account at a time when investor nervousness towards U.S. assets has grown,\" they said in a research report"
-      },
-      {
-        "sentenceNumber": 20,
-        "units": [
-          {
-            "unit": "\"Actively reducing foreigners' total return on their U.S. investments",
-            "role": "S",
-            "meaning": "주어-동명사구",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "외국인들의 미국 투자 총수익을 적극적으로 줄이는 것은"
-          },
-          {
-            "unit": "Actively",
-            "role": "adv",
-            "meaning": "부사",
-            "type": "Adverb",
-            "is_main_unit": false,
-            "detail": "적극적으로"
-          },
-          {
-            "unit": "reducing",
-            "role": "동명사",
-            "meaning": "줄이는 것은",
-            "type": "Phrase",
-            "is_main_unit": false
-          },
-          {
-            "unit": "foreigners' total return on their U.S. investments",
-            "role": "O of reducing",
-            "meaning": "외국인들의 미국 투자 총수익을",
-            "type": "Phrase",
-            "is_main_unit": false
-          },
-          {
-            "unit": "would dent",
-            "role": "V",
-            "meaning": "동사",
-            "type": "Verb",
-            "is_main_unit": true,
-            "detail": "손상시킬 것이다"
-          },
-          {
-            "unit": "inflows",
-            "role": "O",
-            "meaning": "목적어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "유입을"
-          },
-          {
-            "unit": "and",
-            "role": "conj",
-            "meaning": "그리고",
-            "type": "Conjunction",
-            "is_main_unit": true,
-            "detail": "and"
-          },
-          {
-            "unit": "weigh on",
-            "role": "V",
-            "meaning": "동사",
-            "type": "Verb",
-            "is_main_unit": true,
-            "detail": "~에 부담을 주다"
-          },
-          {
-            "unit": "the dollar,",
-            "role": "O",
-            "meaning": "목적어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "달러에"
-          },
-          {
-            "unit": "all else equal,\"",
-            "role": "adp",
-            "meaning": "삽입된 부사구",
-            "type": "Adverbial Phrase",
-            "is_main_unit": true,
-            "detail": "다른 모든 조건이 같다면"
-          },
-          {
-            "unit": "Barclays analysts",
-            "role": "S",
-            "meaning": "주어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "바클레이즈 분석가들은"
-          },
-          {
-            "unit": "said",
-            "role": "V",
-            "meaning": "동사",
-            "type": "Verb",
-            "is_main_unit": true,
-            "detail": "말했다"
-          }
-        ],
-        "translatedSentenceText": "\"다른 모든 조건이 같다면, 외국인들의 미국 투자 총수익을 적극적으로 줄이는 것은 자금 유입을 손상시키고 달러에 부담을 줄 것\"이라고 바클레이즈 분석가들은 말했다.",
-        "originalSentenceText": "\"Actively reducing foreigners' total return on their U.S. investments would dent inflowsand weigh on the dollar, all else equal,\" Barclays analysts said"
-      },
-      {
-        "sentenceNumber": 21,
-        "units": [
-          {
-            "unit": "\"While dollar sentiment/positioning remains close to extreme negativity,",
-            "role": "adc",
-            "meaning": "양보 부사절",
-            "type": "Adverbial Clause",
-            "is_main_unit": true,
-            "detail": "While"
-          },
-          {
-            "unit": "dollar sentiment/positioning",
-            "role": "S",
-            "meaning": "부사절 내 주어",
-            "type": "Noun Phrase",
-            "is_main_unit": false,
-            "detail": "달러 심리/포지셔닝이"
-          },
-          {
-            "unit": "remains",
-            "role": "V",
-            "meaning": "부사절 내 동사",
-            "type": "Verb",
-            "is_main_unit": false,
-            "detail": "유지되고 있지만"
-          },
-          {
-            "unit": "close to extreme negativity",
-            "role": "S.C",
-            "meaning": "부사절 내 보어",
-            "type": "Subject Complement Phrase",
-            "is_main_unit": false,
-            "detail": "극단적인 부정에 가깝게"
-          },
-          {
-            "unit": "the path ahead",
-            "role": "S",
-            "meaning": "주어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "앞으로의 경로는"
-          },
-          {
-            "unit": "is",
-            "role": "V",
-            "meaning": "동사",
-            "type": "Verb",
-            "is_main_unit": true,
-            "detail": "~이다"
-          },
-          {
-            "unit": "by no means clear cut.\"",
-            "role": "S.C",
-            "meaning": "보어",
-            "type": "Subject Complement Phrase",
-            "is_main_unit": true,
-            "detail": "결코 명확하지 않다"
-          }
-        ],
-        "translatedSentenceText": "\"달러 심리/포지셔닝이 극단적인 부정에 가깝게 유지되고 있지만, 앞으로의 경로는 결코 명확하지 않다.\"",
-        "originalSentenceText": "\"While dollar sentiment/positioning remains close to extreme negativity, the path ahead is by no means clear cut.\""
-      },
-      {
-        "sentenceNumber": 22,
-        "units": [
-          {
-            "unit": "Elsewhere,",
-            "role": "adp",
-            "meaning": "부사",
-            "type": "Adverbial Phrase",
-            "is_main_unit": true,
-            "detail": "다른 곳에서는"
-          },
-          {
-            "unit": "the Australian dollar",
-            "role": "S",
-            "meaning": "주어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "호주 달러는"
-          },
-          {
-            "unit": "added",
-            "role": "V",
-            "meaning": "동사",
-            "type": "Verb",
-            "is_main_unit": true,
-            "detail": "상승했다"
-          },
-          {
-            "unit": "0.70%",
-            "role": "O",
-            "meaning": "목적어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "0.70%를"
-          },
-          {
-            "unit": "to $0.64",
-            "role": "prep",
-            "meaning": "전치사구",
-            "type": "Prepositional Phrase",
-            "is_main_unit": true,
-            "detail": "0.64달러로"
-          },
-          {
-            "unit": "and",
-            "role": "conj",
-            "meaning": "그리고",
-            "type": "Conjunction",
-            "is_main_unit": true,
-            "detail": "and"
-          },
-          {
-            "unit": "the New Zealand dollar",
-            "role": "S",
-            "meaning": "주어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "뉴질랜드 달러는"
-          },
-          {
-            "unit": "rose",
-            "role": "V",
-            "meaning": "동사",
-            "type": "Verb",
-            "is_main_unit": true,
-            "detail": "상승했다"
-          },
-          {
-            "unit": "0.85%",
-            "role": "O",
-            "meaning": "목적어",
-            "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "0.85%를"
-          },
-          {
-            "unit": "to $0.60.",
-            "role": "prep",
-            "meaning": "전치사구",
-            "type": "Prepositional Phrase",
-            "is_main_unit": true,
-            "detail": "0.60달러로"
-          }
-        ],
-        "translatedSentenceText": "다른 곳에서는, 호주 달러는 0.70% 상승하여 0.64달러가 되었고 뉴질랜드 달러는 0.85% 상승하여 0.60달러가 되었다.",
-        "originalSentenceText": "Elsewhere, the Australian dollar added 0.70% to $0.64and the New Zealand dollar rose 0.85% to $0.60."
-      }
-    ],
-    "vocabulary": [
-      {
-        "word": "major currencies",
-        "part_of_speech": "n",
-        "meaning": "주요 통화"
-      },
-      {
-        "word": "duties",
-        "part_of_speech": "n",
-        "meaning": "관세"
-      },
-      {
-        "word": "imported steel and aluminum",
-        "part_of_speech": "n",
-        "meaning": "수입 철강 및 알루미늄"
-      },
-      {
-        "word": "tensions",
-        "part_of_speech": "n",
-        "meaning": "긴장"
-      },
-      {
-        "word": "Commerce Ministry",
-        "part_of_speech": "n",
-        "meaning": "상무부"
-      },
-      {
-        "word": "accusations",
-        "part_of_speech": "n",
-        "meaning": "비난, 고발"
-      },
-      {
-        "word": "groundless",
-        "part_of_speech": "adj",
-        "meaning": "근거 없는"
-      },
-      {
-        "word": "forceful measures",
-        "part_of_speech": "n",
-        "meaning": "강력한 조치"
-      },
-      {
-        "word": "Treasury Secretary",
-        "part_of_speech": "n",
-        "meaning": "재무장관"
-      },
-      {
-        "word": "ironed out",
-        "part_of_speech": "phr v",
-        "meaning": "해결되다, 원만히 처리되다"
-      },
-      {
-        "word": "yen",
-        "part_of_speech": "n",
-        "meaning": "엔화"
-      },
-      {
-        "word": "euro",
-        "part_of_speech": "n",
-        "meaning": "유로화"
-      },
-      {
-        "word": "sterling",
-        "part_of_speech": "n",
-        "meaning": "파운드화 (영국 통화)"
-      },
-      {
-        "word": "tariff announcement",
-        "part_of_speech": "n",
-        "meaning": "관세 발표"
-      },
-      {
-        "word": "eight-month high",
-        "part_of_speech": "n",
-        "meaning": "8개월 만의 최고치"
-      },
-      {
-        "word": "greenback",
-        "part_of_speech": "n",
-        "meaning": "(미국) 달러 (속칭)"
-      },
-      {
-        "word": "peers",
-        "part_of_speech": "n",
-        "meaning": "동료, (여기서는) 상대 통화"
-      },
-      {
-        "word": "eased",
-        "part_of_speech": "v",
-        "meaning": "완화되다, (가격 등이) 하락하다"
-      },
-      {
-        "word": "protectionist trade policies",
-        "part_of_speech": "n",
-        "meaning": "보호무역주의 정책"
-      },
-      {
-        "word": "stagflation",
-        "part_of_speech": "n",
-        "meaning": "스태그플레이션 (경기 침체 중 물가 상승)"
-      },
-      {
-        "word": "uncertainties",
-        "part_of_speech": "n",
-        "meaning": "불확실성"
-      },
-      {
-        "word": "recession",
-        "part_of_speech": "n",
-        "meaning": "경기 침체"
-      },
-      {
-        "word": "triggered by",
-        "part_of_speech": "phr",
-        "meaning": "~에 의해 촉발된"
-      },
-      {
-        "word": "safe-haven status",
-        "part_of_speech": "n",
-        "meaning": "안전자산 지위"
-      },
-      {
-        "word": "Liberation Day tariffs",
-        "part_of_speech": "n",
-        "meaning": "\"해방의 날\" 관세 (문맥상 특정 관세 조치를 지칭)"
-      },
-      {
-        "word": "levies",
-        "part_of_speech": "n",
-        "meaning": "부과금, 세금"
-      },
-      {
-        "word": "threatened",
-        "part_of_speech": "v",
-        "meaning": "위협받는, 위협하다"
-      },
-      {
-        "word": "postponed",
-        "part_of_speech": "v",
-        "meaning": "연기된, 연기하다"
-      },
-      {
-        "word": "respite",
-        "part_of_speech": "n",
-        "meaning": "유예, 일시적 중단"
-      },
-      {
-        "word": "got back on track",
-        "part_of_speech": "phr",
-        "meaning": "정상 궤도에 오르다"
-      },
-      {
-        "word": "blocked",
-        "part_of_speech": "v",
-        "meaning": "막다, 차단하다"
-      },
-      {
-        "word": "bulk",
-        "part_of_speech": "n",
-        "meaning": "대부분, 큰 규모"
-      },
-      {
-        "word": "overstepped his authority",
-        "part_of_speech": "phr",
-        "meaning": "그의 권한을 남용했다"
-      },
-      {
-        "word": "reinstated",
-        "part_of_speech": "v",
-        "meaning": "복원시키다, 회복시키다"
-      },
-      {
-        "word": "appeals court",
-        "part_of_speech": "n",
-        "meaning": "항소 법원"
-      },
-      {
-        "word": "administration",
-        "part_of_speech": "n",
-        "meaning": "행정부"
-      },
-      {
-        "word": "avenues",
-        "part_of_speech": "n",
-        "meaning": "방안, 수단"
-      },
-      {
-        "word": "implement",
-        "part_of_speech": "v",
-        "meaning": "시행하다"
-      },
-      {
-        "word": "checks",
-        "part_of_speech": "n",
-        "meaning": "견제, 억제"
-      },
-      {
-        "word": "sectoral tariffs",
-        "part_of_speech": "n",
-        "meaning": "부문별 관세"
-      },
-      {
-        "word": "tariff floor",
-        "part_of_speech": "n",
-        "meaning": "관세 하한선"
-      },
-      {
-        "word": "trading partners",
-        "part_of_speech": "n",
-        "meaning": "교역 상대국"
-      },
-      {
-        "word": "impeded",
-        "part_of_speech": "v",
-        "meaning": "방해받는, 저지되는"
-      },
-      {
-        "word": "raising revenues",
-        "part_of_speech": "phr",
-        "meaning": "세입을 확보하는"
-      },
-      {
-        "word": "fiscal worries",
-        "part_of_speech": "n",
-        "meaning": "재정적 우려"
-      },
-      {
-        "word": "given rise to",
-        "part_of_speech": "phr v",
-        "meaning": "~을 야기하다"
-      },
-      {
-        "word": "Sell America theme",
-        "part_of_speech": "n",
-        "meaning": "\"미국 자산 매도\" 분위기/테마"
-      },
-      {
-        "word": "assets",
-        "part_of_speech": "n",
-        "meaning": "자산"
-      },
-      {
-        "word": "Treasury bonds",
-        "part_of_speech": "n",
-        "meaning": "미국 국채"
-      },
-      {
-        "word": "come into particular focus",
-        "part_of_speech": "phr",
-        "meaning": "특히 주목받다"
-      },
-      {
-        "word": "sweeping tax cut and spending bill",
-        "part_of_speech": "n",
-        "meaning": "대규모 세금 감면 및 지출 법안"
-      },
-      {
-        "word": "federal government's debt",
-        "part_of_speech": "n",
-        "meaning": "연방 정부 부채"
-      },
-      {
-        "word": "revisions",
-        "part_of_speech": "n",
-        "meaning": "수정, 개정"
-      },
-      {
-        "word": "fate",
-        "part_of_speech": "n",
-        "meaning": "운명"
-      },
-      {
-        "word": "crucial",
-        "part_of_speech": "adj",
-        "meaning": "중대한, 결정적인"
-      },
-      {
-        "word": "free rein",
-        "part_of_speech": "n",
-        "meaning": "자유재량권"
-      },
-      {
-        "word": "deemed to have",
-        "part_of_speech": "phr",
-        "meaning": "~을 가진 것으로 간주되는"
-      },
-      {
-        "word": "unfair foreign taxes",
-        "part_of_speech": "n",
-        "meaning": "불공정한 해외 세금"
-      },
-      {
-        "word": "capital account",
-        "part_of_speech": "n",
-        "meaning": "자본 계정"
-      },
-      {
-        "word": "investor nervousness",
-        "part_of_speech": "n",
-        "meaning": "투자자 불안감"
-      },
-      {
-        "word": "total return",
-        "part_of_speech": "n",
-        "meaning": "총수익(률)"
-      },
-      {
-        "word": "dent inflows",
-        "part_of_speech": "phr",
-        "meaning": "(자금) 유입을 손상시키다"
-      },
-      {
-        "word": "weigh on",
-        "part_of_speech": "phr v",
-        "meaning": "~에 부담을 주다, ~을 압박하다"
-      },
-      {
-        "word": "all else equal",
-        "part_of_speech": "phr",
-        "meaning": "다른 모든 조건이 같다면"
-      },
-      {
-        "word": "dollar sentiment/positioning",
-        "part_of_speech": "n",
-        "meaning": "달러 심리/포지셔닝"
-      },
-      {
-        "word": "extreme negativity",
-        "part_of_speech": "n",
-        "meaning": "극단적인 부정적 심리"
-      },
-      {
-        "word": "path ahead",
-        "part_of_speech": "n",
-        "meaning": "앞으로의 경로, 향후 전망"
-      },
-      {
-        "word": "by no means clear cut",
-        "part_of_speech": "phr",
-        "meaning": "결코 명확하지 않은"
-      },
-      {
-        "word": "Elsewhere",
-        "part_of_speech": "adv",
-        "meaning": "다른 곳에서는"
-      },
-      {
-        "word": "added",
-        "part_of_speech": "v",
-        "meaning": "(가치가) 상승하다, 더하다"
-      },
-      {
-        "word": "rose",
-        "part_of_speech": "v",
-        "meaning": "(가치가) 상승하다"
-      },
-      {
-        "word": "gains",
-        "part_of_speech": "n",
-        "meaning": "상승, 이익"
-      }
-    ]
-  }
+    {
+      "date": "25-06-07",
+      "language":"en",
+      "title": "Why ‘America First’ could end the age of arbitrage",
+      "content": "How Donald Trump's \"America First\" policy, which targets global supply chains, could also signal the end of an era of arbitrage. Beyond trade in goods, this policy may impact tax, regulatory, and financial arbitrage, with potentially more significant consequences for investors.\n•\nTax Arbitrage: U.S. companies have shifted assets offshore to lower-tax jurisdictions, reporting significant profits there compared to the U.S.. This has benefited companies and low-tax countries but not U.S. taxpayers.\n•\nRegulatory Arbitrage: Companies, particularly in finance like insurers, have moved activities to places with looser regulations, such as transferring life insurance reserves to Bermuda. This allows them to free up capital and has aided the growth of private credit firms using offshore insurance operations for funding.\n•\nFinancial Arbitrage: The post-2008 global financial system relies on foreign exchange swaps using U.S. Treasuries held overseas to create international credit. While some see this as an \"exorbitant privilege\" for the U.S., the Trump administration views it as providing a \"global public good\" for free and suggests other countries should \"pay their fair share\".\n\nA potential crackdown on these arbitrages could mean investors should be cautious about industries and firms that benefit significantly from these practices, such as certain pharmaceutical companies or private credit providers reliant on offshore funding. Targeting the dollar-based financial system itself, possibly by taxing foreign investors in U.S. assets, could be even more disruptive to global finance as we know it.",
+      "analysis": [
+        {
+          "sentenceNumber": 1,
+          "units": [
+            {
+              "unit": "How",
+              "role": "adv",
+              "meaning": "부사",
+              "type": "Adverb",
+              "is_main_unit": true,
+              "detail": "어떻게"
+            },
+            {
+              "unit": "Donald Trump's \"America First\" policy, which targets global supply chains",
+              "role": "S",
+              "meaning": "주어",
+              "type": "Noun Phrase",
+              "is_main_unit": true,
+              "detail": "도널드 트럼프의 \"미국 우선주의\" 정책, 즉 글로벌 공급망을 겨냥하는"
+            },
+            {
+              "unit": "could also signal",
+              "role": "V",
+              "meaning": "동사",
+              "type": "Verb",
+              "is_main_unit": true,
+              "detail": "또한 신호할 수 있다"
+            },
+            {
+              "unit": "the end of an era of arbitrage",
+              "role": "O",
+              "meaning": "목적어",
+              "type": "Noun Phrase",
+              "is_main_unit": true,
+              "detail": "차익 거래 시대의 종말을"
+            }
+          ],
+          "translatedSentenceText": "도널드 트럼프의 '미국 우선주의' 정책(글로벌 공급망을 겨냥하는)이 어떻게 차익 거래 시대의 종말을 또한 신호하는지 보여줍니다.",
+          "originalSentenceText": "How Donald Trump's \"America First\" policy, which targets global supply chains, could also signal the end of an era of arbitrage."
+        },
+        {
+          "sentenceNumber": 2,
+          "units": [
+            {
+              "unit": "Beyond trade in goods",
+              "role": "prep",
+              "meaning": "전치사구",
+              "type": "Prepositional Phrase",
+              "is_main_unit": true,
+              "detail": "상품 거래를 넘어"
+            },
+            {
+              "unit": "this policy",
+              "role": "S",
+              "meaning": "주어",
+              "type": "Noun Phrase",
+              "is_main_unit": true,
+              "detail": "이 정책은"
+            },
+            {
+              "unit": "may impact",
+              "role": "V",
+              "meaning": "동사",
+              "type": "Verb",
+              "is_main_unit": true,
+              "detail": "영향을 미칠 수 있다"
+            },
+            {
+              "unit": "tax, regulatory, and financial arbitrage",
+              "role": "O",
+              "meaning": "목적어",
+              "type": "Noun Phrase",
+              "is_main_unit": true,
+              "detail": "세금, 규제, 및 금융 차익 거래에"
+            },
+            {
+              "unit": "with potentially more significant consequences for investors",
+              "role": "prep",
+              "meaning": "전치사구",
+              "type": "Prepositional Phrase",
+              "is_main_unit": true,
+              "detail": "투자자들에게 잠재적으로 더 중대한 결과를 수반하며"
+            }
+          ],
+          "translatedSentenceText": "상품 거래를 넘어, 이 정책은 세금, 규제, 금융 차익 거래에 영향을 미칠 수 있으며, 투자자들에게는 잠재적으로 더 심각한 결과를 초래할 수 있습니다.",
+          "originalSentenceText": "Beyond trade in goods, this policy may impact tax, regulatory, and financial arbitrage, with potentially more significant consequences for investors."
+        },
+        {
+          "sentenceNumber": 3,
+          "units": [
+            {
+              "unit": "U.S. companies",
+              "role": "S",
+              "meaning": "주어",
+              "type": "Noun Phrase",
+              "is_main_unit": true,
+              "detail": "미국 기업들은"
+            },
+            {
+              "unit": "have shifted",
+              "role": "V",
+              "meaning": "동사",
+              "type": "Verb",
+              "is_main_unit": true,
+              "detail": "이전해왔다"
+            },
+            {
+              "unit": "assets",
+              "role": "O",
+              "meaning": "목적어",
+              "type": "Noun Phrase",
+              "is_main_unit": true,
+              "detail": "자산을"
+            },
+            {
+              "unit": "offshore",
+              "role": "adv",
+              "meaning": "부사",
+              "type": "Adverb",
+              "is_main_unit": true,
+              "detail": "해외로"
+            },
+            {
+              "unit": "to lower-tax jurisdictions",
+              "role": "prep",
+              "meaning": "전치사구",
+              "type": "Prepositional Phrase",
+              "is_main_unit": true,
+              "detail": "더 낮은 세율의 관할 지역으로"
+            },
+            {
+              "unit": "reporting significant profits there compared to the U.S.",
+              "role": "part",
+              "meaning": "분사구문",
+              "type": "Participial Phrase",
+              "is_main_unit": true,
+              "detail": "미국에 비해 그곳에서 상당한 이익을 보고하면서"
+            }
+          ],
+          "translatedSentenceText": "미국 기업들은 자산을 해외 저세율 관할 지역으로 이전하여, 미국에 비해 그곳에서 상당한 이익을 보고하고 있습니다.",
+          "originalSentenceText": "U.S. companies have shifted assets offshore to lower-tax jurisdictions, reporting significant profits there compared to the U.S.."
+        },
+        {
+          "sentenceNumber": 4,
+          "units": [
+            {
+              "unit": "This",
+              "role": "S",
+              "meaning": "주어",
+              "type": "Noun Phrase",
+              "is_main_unit": true,
+              "detail": "이것은"
+            },
+            {
+              "unit": "has benefited",
+              "role": "V",
+              "meaning": "동사",
+              "type": "Verb",
+              "is_main_unit": true,
+              "detail": "이익을 주었다"
+            },
+            {
+              "unit": "companies and low-tax countries but not U.S. taxpayers",
+              "role": "O",
+              "meaning": "목적어",
+              "type": "Noun Phrase",
+              "is_main_unit": true,
+              "detail": "기업들과 저세율 국가들에게는 이익을 주었지만 미국 납세자들에게는 아니다"
+            }
+          ],
+          "translatedSentenceText": "이는 기업과 저세율 국가들에게는 이익이 되었지만 미국 납세자들에게는 그렇지 않았습니다.",
+          "originalSentenceText": "This has benefited companies and low-tax countries but not U.S. taxpayers."
+        },
+        {
+          "sentenceNumber": 5,
+          "units": [
+            {
+              "unit": "Companies, particularly in finance like insurers",
+              "role": "S",
+              "meaning": "주어",
+              "type": "Noun Phrase",
+              "is_main_unit": true,
+              "detail": "기업들, 특히 보험사와 같은 금융 분야의 기업들은"
+            },
+            {
+              "unit": "have moved",
+              "role": "V",
+              "meaning": "동사",
+              "type": "Verb",
+              "is_main_unit": true,
+              "detail": "옮겨왔다"
+            },
+            {
+              "unit": "activities",
+              "role": "O",
+              "meaning": "목적어",
+              "type": "Noun Phrase",
+              "is_main_unit": true,
+              "detail": "활동들을"
+            },
+            {
+              "unit": "to places with looser regulations",
+              "role": "prep",
+              "meaning": "전치사구",
+              "type": "Prepositional Phrase",
+              "is_main_unit": true,
+              "detail": "규제가 더 느슨한 곳으로"
+            },
+            {
+              "unit": "such as transferring life insurance reserves to Bermuda",
+              "role": "prep",
+              "meaning": "전치사구 (예시)",
+              "type": "Prepositional Phrase",
+              "is_main_unit": true,
+              "detail": "생명 보험 준비금을 버뮤다로 이전하는 것과 같은"
+            }
+          ],
+          "translatedSentenceText": "기업들, 특히 보험사와 같은 금융 분야의 기업들은 생명 보험 준비금을 버뮤다로 이전하는 것과 같이 규제가 느슨한 곳으로 활동을 옮겼습니다.",
+          "originalSentenceText": "Companies, particularly in finance like insurers, have moved activities to places with looser regulations, such as transferring life insurance reserves to Bermuda."
+        },
+        {
+          "sentenceNumber": 6,
+          "units": [
+            {
+              "unit": "This",
+              "role": "S",
+              "meaning": "주어",
+              "type": "Noun Phrase",
+              "is_main_unit": true,
+              "detail": "이것은"
+            },
+            {
+              "unit": "allows",
+              "role": "V",
+              "meaning": "동사",
+              "type": "Verb",
+              "is_main_unit": true,
+              "detail": "허용한다"
+            },
+            {
+              "unit": "them",
+              "role": "O",
+              "meaning": "목적어",
+              "type": "Noun Phrase",
+              "is_main_unit": true,
+              "detail": "그들에게"
+            },
+            {
+              "unit": "to free up capital",
+              "role": "infP",
+              "meaning": "부정사구 (목적격 보어)",
+              "type": "Infinitive Phrase",
+              "is_main_unit": true,
+              "detail": "자본을 확보하도록"
+            },
+            {
+              "unit": "and",
+              "role": "conj",
+              "meaning": "접속사",
+              "type": "Conjunction",
+              "is_main_unit": true,
+              "detail": "그리고"
+            },
+            {
+              "unit": "has aided",
+              "role": "V",
+              "meaning": "동사",
+              "type": "Verb",
+              "is_main_unit": true,
+              "detail": "도왔다"
+            },
+            {
+              "unit": "the growth of private credit firms using offshore insurance operations for funding",
+              "role": "O",
+              "meaning": "목적어",
+              "type": "Noun Phrase",
+              "is_main_unit": true,
+              "detail": "해외 보험 영업을 자금 조달에 사용하는 사모 신용 회사의 성장을"
+            }
+          ],
+          "translatedSentenceText": "이는 그들이 자본을 확보할 수 있게 하며, 해외 보험 영업을 자금 조달에 사용하는 사모 신용 회사의 성장을 도왔습니다.",
+          "originalSentenceText": "This allows them to free up capital and has aided the growth of private credit firms using offshore insurance operations for funding."
+        },
+        {
+          "sentenceNumber": 7,
+          "units": [
+            {
+              "unit": "The post-2008 global financial system",
+              "role": "S",
+              "meaning": "주어",
+              "type": "Noun Phrase",
+              "is_main_unit": true,
+              "detail": "2008년 이후 글로벌 금융 시스템은"
+            },
+            {
+              "unit": "relies on",
+              "role": "V",
+              "meaning": "동사 (구동사)",
+              "type": "Verb",
+              "is_main_unit": true,
+              "detail": "의존한다"
+            },
+            {
+              "unit": "foreign exchange swaps using U.S. Treasuries held overseas to create international credit",
+              "role": "obj of prep",
+              "meaning": "전치사의 목적어",
+              "type": "Noun Phrase",
+              "is_main_unit": true,
+              "detail": "해외에 보유된 미국 국채를 사용하여 국제 신용을 창출하는 외환 스왑에"
+            }
+          ],
+          "translatedSentenceText": "2008년 이후 글로벌 금융 시스템은 해외에 보유된 미국 국채를 사용하는 외환 스왑에 의존하여 국제 신용을 창출합니다.",
+          "originalSentenceText": "The post-2008 global financial system relies on foreign exchange swaps using U.S. Treasuries held overseas to create international credit."
+        },
+        {
+          "sentenceNumber": 8,
+          "units": [
+            {
+              "unit": "While some see this as an \"exorbitant privilege\" for the U.S.",
+              "role": "acl",
+              "meaning": "부사절",
+              "type": "Adverbial Clause",
+              "is_main_unit": true,
+              "detail": "일부는 이것을 미국을 위한 \"과도한 특권\"으로 보는 반면"
+            },
+            {
+              "unit": "the Trump administration",
+              "role": "S",
+              "meaning": "주어",
+              "type": "Noun Phrase",
+              "is_main_unit": true,
+              "detail": "트럼프 행정부는"
+            },
+            {
+              "unit": "views",
+              "role": "V",
+              "meaning": "동사",
+              "type": "Verb",
+              "is_main_unit": true,
+              "detail": "간주한다"
+            },
+            {
+              "unit": "it",
+              "role": "O",
+              "meaning": "목적어",
+              "type": "Noun Phrase",
+              "is_main_unit": true,
+              "detail": "그것을"
+            },
+            {
+              "unit": "as providing a \"global public good\" for free",
+              "role": "prep",
+              "meaning": "전치사구",
+              "type": "Prepositional Phrase",
+              "is_main_unit": true,
+              "detail": "\"글로벌 공공재\"를 무료로 제공하는 것으로"
+            },
+            {
+              "unit": "and",
+              "role": "conj",
+              "meaning": "접속사",
+              "type": "Conjunction",
+              "is_main_unit": true,
+              "detail": "그리고"
+            },
+            {
+              "unit": "suggests",
+              "role": "V",
+              "meaning": "동사",
+              "type": "Verb",
+              "is_main_unit": true,
+              "detail": "제안한다"
+            },
+            {
+              "unit": "other countries should \"pay their fair share\"",
+              "role": "O_ncl",
+              "meaning": "목적어 (명사절)",
+              "type": "Noun Clause",
+              "is_main_unit": true,
+              "detail": "다른 나라들이 \"그들의 공정한 몫을 지불해야 한다\"고"
+            }
+          ],
+          "translatedSentenceText": "일부는 이를 미국에게 '과도한 특권'으로 보지만, 트럼프 행정부는 이를 '글로벌 공공재'를 무료로 제공하는 것으로 간주하며 다른 국가들이 '공정한 몫을 지불해야 한다'고 제안합니다.",
+          "originalSentenceText": "While some see this as an \"exorbitant privilege\" for the U.S., the Trump administration views it as providing a \"global public good\" for free and suggests other countries should \"pay their fair share\"."
+        },
+        {
+          "sentenceNumber": 9,
+          "units": [
+            {
+              "unit": "A potential crackdown on these arbitrages",
+              "role": "S",
+              "meaning": "주어",
+              "type": "Noun Phrase",
+              "is_main_unit": true,
+              "detail": "이러한 차익 거래에 대한 잠재적 단속은"
+            },
+            {
+              "unit": "could mean",
+              "role": "V",
+              "meaning": "동사",
+              "type": "Verb",
+              "is_main_unit": true,
+              "detail": "의미할 수 있다"
+            },
+            {
+              "unit": "investors should be cautious about industries and firms that benefit significantly from these practices, such as certain pharmaceutical companies or private credit providers reliant on offshore funding",
+              "role": "O_ncl",
+              "meaning": "목적어 (명사절)",
+              "type": "Noun Clause",
+              "is_main_unit": true,
+              "detail": "투자자들이 특정 제약 회사나 해외 자금에 의존하는 사모 신용 제공자와 같이 이러한 관행으로부터 상당한 이익을 얻는 산업 및 기업에 대해 신중해야 한다는 것을"
+            }
+          ],
+          "translatedSentenceText": "이러한 차익 거래에 대한 잠재적 단속은 투자자들이 특정 제약 회사나 해외 자금에 의존하는 사모 신용 제공자와 같이 이러한 관행으로부터 상당한 이익을 얻는 산업 및 기업에 대해 신중해야 함을 의미할 수 있습니다.",
+          "originalSentenceText": "A potential crackdown on these arbitrages could mean investors should be cautious about industries and firms that benefit significantly from these practices, such as certain pharmaceutical companies or private credit providers reliant on offshore funding."
+        },
+        {
+          "sentenceNumber": 10,
+          "units": [
+            {
+              "unit": "Targeting the dollar-based financial system itself, possibly by taxing foreign investors in U.S. assets",
+              "role": "S",
+              "meaning": "주어 (동명사구)",
+              "type": "Noun Phrase",
+              "is_main_unit": true,
+              "detail": "달러 기반 금융 시스템 자체를 목표로 하는 것, 아마도 미국 자산에 외국인 투자자에게 세금을 부과함으로써"
+            },
+            {
+              "unit": "could be",
+              "role": "V",
+              "meaning": "동사",
+              "type": "Verb",
+              "is_main_unit": true,
+              "detail": "일 수 있다"
+            },
+            {
+              "unit": "even more disruptive",
+              "role": "S.C",
+              "meaning": "주격보어",
+              "type": "Subject Complement Phrase",
+              "is_main_unit": true,
+              "detail": "훨씬 더 파괴적일"
+            },
+            {
+              "unit": "to global finance as we know it",
+              "role": "prep",
+              "meaning": "전치사구",
+              "type": "Prepositional Phrase",
+              "is_main_unit": true,
+              "detail": "우리가 알고 있는 글로벌 금융에"
+            }
+          ],
+          "translatedSentenceText": "달러 기반 금융 시스템 자체를 목표로 삼는 것(아마도 미국 자산에 대한 외국인 투자자에게 과세함으로써)은 우리가 알고 있는 글로벌 금융에 훨씬 더 파괴적일 수 있습니다.",
+          "originalSentenceText": "Targeting the dollar-based financial system itself, possibly by taxing foreign investors in U.S. assets, could be even more disruptive to global finance as we know it."
+        }
+      ]
+    }
 ]
