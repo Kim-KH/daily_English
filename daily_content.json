@@ -24,12 +24,678 @@
     ]
   },
   {
-    "date": "2025-06-09",
+    "date": "2024-05-24",
     "language": "en",
-    "title": "Day 4: Exploring Financial Arbitrage", 
-    "content": "Content for June 9th. How Donald Trump's \"America First\" policy... (이하 동일 내용 반복 또는 실제 내용)",
-    "analysis": [  ],
-    "vocabulary": [  ]
+    "title": "이재명 대통령 선거법 위반 재판 무기한 연기 분석",
+    "content": "South Korea President Lee's election law violation hearing postponed indefinitely, court says.\n\nSEOUL, June 9 (Reuters) - A Seoul court said on Monday it will indefinitely postpone a trial of President Lee Jae-myung on charges of violating election law in 2022.\nSouth Korea's Supreme Court ruled in May, before Lee was elected, that Lee had violated election law by publicly making \"false statements\" during his 2022 presidential bid, and sent the case back to an appeals court\n\nThe Seoul High Court, which had scheduled a hearing for the case on June 18, said on Monday that it will postpone the hearing \"to be decided later\" without a date, a court spokesperson confirmed.\n\nLee's office did not immediately respond to a request for comment.\nThe court said its decision to postpone the hearing was due to \"Constitution Article 84\", without elaborating.\nSouth Korea's Constitution, Article 84, says a sitting president is \"not subject to criminal prosecution while in office\" for most crimes.\nHowever, legal experts are divided on whether that applies to ongoing trials that were already prosecuted before a president was elected.\nThe National Court Administration under the Supreme Court gave as its opinion that judges of each court where Lee's trials are being held will have to decide whether to stop or proceed, according to its statement to a lawmaker in May.\n\n\"The court in charge of hearing the case will determine whether Article 84 of the Constitution should be applied to a criminal defendant who was elected in the presidential election,\" the statement said.\nLee's ruling Democratic Party, which controls parliament, is planning to pass a bill this week which suspends ongoing trials for the incumbent president, local broadcaster KBS reported on Monday.\nThe Constitutional Court may be asked to rule whether the bill is unconstitutional, legal experts have said.",
+    "analysis": [
+      {
+        "sentenceNumber": 1,
+        "units": [
+          {
+            "unit": "South Korea President Lee's election law violation hearing",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "이재명 대한민국 대통령의 선거법 위반 공판이"
+          },
+          {
+            "unit": "postponed indefinitely",
+            "role": "part",
+            "meaning": "분사(구",
+            "type": "Participial Phrase",
+            "is_main_unit": true
+          },
+          {
+            "unit": ", court says",
+            "role": "S+V",
+            "meaning": "삽입절",
+            "type": "Phrase",
+            "is_main_unit": true,
+            "detail": "법원이 밝혔다"
+          }
+        ],
+        "translatedSentenceText": "",
+        "originalSentenceText": "South Korea President Lee's election law violation hearing postponed indefinitely, court says"
+      },
+      {
+        "sentenceNumber": 2,
+        "units": [
+          {
+            "unit": "A Seoul court",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "서울의 한 법원은"
+          },
+          {
+            "unit": "said",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "밝혔다"
+          },
+          {
+            "unit": "on Monday",
+            "role": "adp",
+            "meaning": "부사구",
+            "type": "Adverbial Phrase",
+            "is_main_unit": true,
+            "detail": "월요일에"
+          },
+          {
+            "unit": "it will indefinitely postpone a trial of President Lee Jae-myung on charges of violating election law in 2022",
+            "role": "ncl",
+            "meaning": "명사절(목적어",
+            "type": "Noun Clause",
+            "is_main_unit": true,
+            "detail": "that (implied)"
+          },
+          {
+            "unit": "it",
+            "role": "S",
+            "meaning": "명사절 주어",
+            "type": "Noun Phrase",
+            "is_main_unit": false,
+            "detail": "법원이"
+          },
+          {
+            "unit": "will indefinitely postpone",
+            "role": "V",
+            "meaning": "명사절 동사",
+            "type": "Verb",
+            "is_main_unit": false,
+            "detail": "무기한 연기할 것이다"
+          },
+          {
+            "unit": "a trial of President Lee Jae-myung",
+            "role": "O",
+            "meaning": "명사절 목적어",
+            "type": "Noun Phrase",
+            "is_main_unit": false,
+            "detail": "이재명 대통령의 재판을"
+          },
+          {
+            "unit": "on charges of violating election law in 2022",
+            "role": "prep",
+            "meaning": "전치사구",
+            "type": "Prepositional Phrase",
+            "is_main_unit": false,
+            "detail": "2022년 선거법을 위반한 혐의로"
+          }
+        ],
+        "translatedSentenceText": "",
+        "originalSentenceText": "A Seoul court said on Monday it will indefinitely postpone a trial of President Lee Jae-myung on charges of violating election law in 2022"
+      },
+      {
+        "sentenceNumber": 3,
+        "units": [
+          {
+            "unit": "South Korea's Supreme Court",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "대한민국 대법원은"
+          },
+          {
+            "unit": "ruled",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "판결했다"
+          },
+          {
+            "unit": "in May",
+            "role": "adp",
+            "meaning": "부사구",
+            "type": "Adverbial Phrase",
+            "is_main_unit": true,
+            "detail": "5월에"
+          },
+          {
+            "unit": ", before Lee was elected",
+            "role": "adc",
+            "meaning": "부사절",
+            "type": "Adverbial Clause",
+            "is_main_unit": true,
+            "detail": "before"
+          },
+          {
+            "unit": ", that Lee had violated election law by publicly making \"false statements\" during his 2022 presidential bid",
+            "role": "ncl",
+            "meaning": "명사절(목적어",
+            "type": "Noun Clause",
+            "is_main_unit": true,
+            "detail": "that"
+          },
+          {
+            "unit": ", and",
+            "role": "conj",
+            "meaning": "연결어",
+            "type": "Conjunction",
+            "is_main_unit": true,
+            "detail": "and"
+          },
+          {
+            "unit": "sent the case back to an appeals court",
+            "role": "V+O 묶음",
+            "meaning": "동사+목적어 묶음",
+            "type": "Verb-Object Group",
+            "is_main_unit": true,
+            "detail": "해당 사건을 항소 법원으로 파기 환송했다"
+          }
+        ],
+        "translatedSentenceText": "",
+        "originalSentenceText": "South Korea's Supreme Court ruled in May, before Lee was elected, that Lee had violated election law by publicly making \"false statements\" during his 2022 presidential bid, and sent the case back to an appeals court"
+      },
+      {
+        "sentenceNumber": 4,
+        "units": [
+          {
+            "unit": "The Seoul High Court, which had scheduled a hearing for the case on June 18,",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "6월 18일로 공판 기일을 잡았던 서울고등법원은"
+          },
+          {
+            "unit": "The Seoul High Court",
+            "role": "S 내 핵심",
+            "meaning": "서울고등법원은",
+            "type": "Noun Phrase",
+            "is_main_unit": false
+          },
+          {
+            "unit": ", which had scheduled a hearing for the case on June 18",
+            "role": "ac",
+            "meaning": "형용사절(관계사절",
+            "type": "Adjective Clause",
+            "is_main_unit": false,
+            "detail": "which"
+          },
+          {
+            "unit": "said",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "밝혔다"
+          },
+          {
+            "unit": "on Monday",
+            "role": "adp",
+            "meaning": "부사구",
+            "type": "Adverbial Phrase",
+            "is_main_unit": true,
+            "detail": "월요일에"
+          },
+          {
+            "unit": "that it will postpone the hearing \"to be decided later\" without a date",
+            "role": "ncl",
+            "meaning": "명사절(목적어",
+            "type": "Noun Clause",
+            "is_main_unit": true,
+            "detail": "that"
+          },
+          {
+            "unit": ", a court spokesperson confirmed",
+            "role": "S+V",
+            "meaning": "삽입절",
+            "type": "Phrase",
+            "is_main_unit": true,
+            "detail": "법원 대변인이 확인했다"
+          }
+        ],
+        "translatedSentenceText": "",
+        "originalSentenceText": "The Seoul High Court, which had scheduled a hearing for the case on June 18, said on Monday that it will postpone the hearing \"to be decided later\" without a date, a court spokesperson confirmed"
+      },
+      {
+        "sentenceNumber": 5,
+        "units": [
+          {
+            "unit": "Lee's office",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "이 대통령실은"
+          },
+          {
+            "unit": "did not immediately respond",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "즉각 응답하지 않았다"
+          },
+          {
+            "unit": "to a request for comment",
+            "role": "prep",
+            "meaning": "전치사구",
+            "type": "Prepositional Phrase",
+            "is_main_unit": true,
+            "detail": "논평 요청에"
+          }
+        ],
+        "translatedSentenceText": "",
+        "originalSentenceText": "Lee's office did not immediately respond to a request for comment"
+      },
+      {
+        "sentenceNumber": 6,
+        "units": [
+          {
+            "unit": "The court",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "법원은"
+          },
+          {
+            "unit": "said",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "밝혔다"
+          },
+          {
+            "unit": "its decision to postpone the hearing was due to \"Constitution Article 84\"",
+            "role": "ncl",
+            "meaning": "명사절(목적어",
+            "type": "Noun Clause",
+            "is_main_unit": true,
+            "detail": "that (implied)"
+          },
+          {
+            "unit": ", without elaborating",
+            "role": "prep",
+            "meaning": "전치사구(분사구문",
+            "type": "Prepositional Phrase",
+            "is_main_unit": true
+          }
+        ],
+        "translatedSentenceText": "",
+        "originalSentenceText": "The court said its decision to postpone the hearing was due to \"Constitution Article 84\", without elaborating"
+      },
+      {
+        "sentenceNumber": 7,
+        "units": [
+          {
+            "unit": "South Korea's Constitution, Article 84,",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "대한민국 헌법 제84조는"
+          },
+          {
+            "unit": "says",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "규정하고 있다"
+          },
+          {
+            "unit": "a sitting president is \"not subject to criminal prosecution while in office\" for most crimes",
+            "role": "ncl",
+            "meaning": "명사절(목적어",
+            "type": "Noun Clause",
+            "is_main_unit": true,
+            "detail": "that (implied)"
+          }
+        ],
+        "translatedSentenceText": "",
+        "originalSentenceText": "South Korea's Constitution, Article 84, says a sitting president is \"not subject to criminal prosecution while in office\" for most crimes"
+      },
+      {
+        "sentenceNumber": 8,
+        "units": [
+          {
+            "unit": "However",
+            "role": "adv",
+            "meaning": "접속부사",
+            "type": "Adverb",
+            "is_main_unit": true,
+            "detail": "그러나"
+          },
+          {
+            "unit": ", legal experts",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "법률 전문가들은"
+          },
+          {
+            "unit": "are divided",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "의견이 나뉜다"
+          },
+          {
+            "unit": "on whether that applies to ongoing trials that were already prosecuted before a president was elected",
+            "role": "prep",
+            "meaning": "전치사구",
+            "type": "Prepositional Phrase",
+            "is_main_unit": true,
+            "detail": "대통령 당선 전에 이미 기소된 진행 중인 재판에도 그것이 적용되는지에 대해"
+          }
+        ],
+        "translatedSentenceText": "",
+        "originalSentenceText": "However, legal experts are divided on whether that applies to ongoing trials that were already prosecuted before a president was elected"
+      },
+      {
+        "sentenceNumber": 9,
+        "units": [
+          {
+            "unit": "The National Court Administration under the Supreme Court",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "대법원 산하 법원행정처는"
+          },
+          {
+            "unit": "gave as its opinion",
+            "role": "V+O 묶음",
+            "meaning": "동사+목적어 묶음",
+            "type": "Verb-Object Group",
+            "is_main_unit": true,
+            "detail": "의견을 밝혔다"
+          },
+          {
+            "unit": "that judges of each court where Lee's trials are being held will have to decide whether to stop or proceed",
+            "role": "ncl",
+            "meaning": "명사절(목적어",
+            "type": "Noun Clause",
+            "is_main_unit": true,
+            "detail": "that"
+          },
+          {
+            "unit": ", according to its statement to a lawmaker in May",
+            "role": "prep",
+            "meaning": "전치사구",
+            "type": "Prepositional Phrase",
+            "is_main_unit": true,
+            "detail": "지난 5월 한 국회의원에게 보낸 답변서에 따르면"
+          }
+        ],
+        "translatedSentenceText": "",
+        "originalSentenceText": "The National Court Administration under the Supreme Court gave as its opinion that judges of each court where Lee's trials are being held will have to decide whether to stop or proceed, according to its statement to a lawmaker in May"
+      },
+      {
+        "sentenceNumber": 10,
+        "units": [
+          {
+            "unit": "The statement",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "그 성명서는"
+          },
+          {
+            "unit": "said,",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "말했다"
+          },
+          {
+            "unit": "\"The court in charge of hearing the case will determine whether Article 84 of the Constitution should be applied to a criminal defendant who was elected in the presidential election\"",
+            "role": "ncl",
+            "meaning": "명사절(목적어",
+            "type": "Noun Clause",
+            "is_main_unit": true,
+            "detail": "that (implied)"
+          }
+        ],
+        "translatedSentenceText": "",
+        "originalSentenceText": "The statement said, \"The court in charge of hearing the case will determine whether Article 84 of the Constitution should be applied to a criminal defendant who was elected in the presidential election\""
+      },
+      {
+        "sentenceNumber": 11,
+        "units": [
+          {
+            "unit": "Lee's ruling Democratic Party, which controls parliament,",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "의회를 장악하고 있는 이 대통령의 집권 민주당은"
+          },
+          {
+            "unit": "Lee's ruling Democratic Party",
+            "role": "S 내 핵심",
+            "meaning": "이 대통령의 집권 민주당은",
+            "type": "Noun Phrase",
+            "is_main_unit": false
+          },
+          {
+            "unit": ", which controls parliament",
+            "role": "ac",
+            "meaning": "형용사절(관계사절",
+            "type": "Adjective Clause",
+            "is_main_unit": false,
+            "detail": "which"
+          },
+          {
+            "unit": "is planning",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "계획하고 있다"
+          },
+          {
+            "unit": "to pass a bill this week which suspends ongoing trials for the incumbent president",
+            "role": "O",
+            "meaning": "목적어(부정사구",
+            "type": "Noun Phrase",
+            "is_main_unit": true
+          },
+          {
+            "unit": ", local broadcaster KBS reported on Monday",
+            "role": "S+V",
+            "meaning": "삽입절",
+            "type": "Phrase",
+            "is_main_unit": true,
+            "detail": "라고 월요일 현지 방송사인 KBS가 보도했다"
+          }
+        ],
+        "translatedSentenceText": "",
+        "originalSentenceText": "Lee's ruling Democratic Party, which controls parliament, is planning to pass a bill this week which suspends ongoing trials for the incumbent president, local broadcaster KBS reported on Monday"
+      },
+      {
+        "sentenceNumber": 12,
+        "units": [
+          {
+            "unit": "legal experts",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "법률 전문가들은"
+          },
+          {
+            "unit": "have said",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "말했다"
+          },
+          {
+            "unit": "The Constitutional Court may be asked to rule whether the bill is unconstitutional",
+            "role": "ncl",
+            "meaning": "명사절(목적어",
+            "type": "Noun Clause",
+            "is_main_unit": true,
+            "detail": "that (implied)"
+          }
+        ],
+        "translatedSentenceText": "",
+        "originalSentenceText": "legal experts have said The Constitutional Court may be asked to rule whether the bill is unconstitutional"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "election law violation",
+        "part_of_speech": "n",
+        "meaning": "선거법 위반"
+      },
+      {
+        "word": "hearing",
+        "part_of_speech": "n",
+        "meaning": "공판, 심리"
+      },
+      {
+        "word": "postpone",
+        "part_of_speech": "v",
+        "meaning": "연기하다"
+      },
+      {
+        "word": "indefinitely",
+        "part_of_speech": "adv",
+        "meaning": "무기한으로"
+      },
+      {
+        "word": "charges",
+        "part_of_speech": "n",
+        "meaning": "혐의"
+      },
+      {
+        "word": "Supreme Court",
+        "part_of_speech": "n",
+        "meaning": "대법원"
+      },
+      {
+        "word": "rule",
+        "part_of_speech": "v",
+        "meaning": "판결하다"
+      },
+      {
+        "word": "false statements",
+        "part_of_speech": "n",
+        "meaning": "허위 사실 공표, 허위 발언"
+      },
+      {
+        "word": "presidential bid",
+        "part_of_speech": "n",
+        "meaning": "대선 출마, 대선 운동"
+      },
+      {
+        "word": "appeals court",
+        "part_of_speech": "n",
+        "meaning": "항소 법원, 고등 법원"
+      },
+      {
+        "word": "spokesperson",
+        "part_of_speech": "n",
+        "meaning": "대변인"
+      },
+      {
+        "word": "elaborate",
+        "part_of_speech": "v",
+        "meaning": "자세히 설명하다"
+      },
+      {
+        "word": "Constitution",
+        "part_of_speech": "n",
+        "meaning": "헌법"
+      },
+      {
+        "word": "sitting president",
+        "part_of_speech": "n",
+        "meaning": "현직 대통령"
+      },
+      {
+        "word": "be subject to",
+        "part_of_speech": "phr",
+        "meaning": "~의 대상이 되다"
+      },
+      {
+        "word": "criminal prosecution",
+        "part_of_speech": "n",
+        "meaning": "형사 소추"
+      },
+      {
+        "word": "legal experts",
+        "part_of_speech": "n",
+        "meaning": "법률 전문가"
+      },
+      {
+        "word": "be divided on",
+        "part_of_speech": "phr",
+        "meaning": "~에 대해 의견이 나뉘다"
+      },
+      {
+        "word": "ongoing trials",
+        "part_of_speech": "n",
+        "meaning": "진행 중인 재판"
+      },
+      {
+        "word": "prosecuted",
+        "part_of_speech": "v",
+        "meaning": "기소된"
+      },
+      {
+        "word": "National Court Administration",
+        "part_of_speech": "n",
+        "meaning": "법원행정처"
+      },
+      {
+        "word": "determine",
+        "part_of_speech": "v",
+        "meaning": "결정하다, 확정하다"
+      },
+      {
+        "word": "criminal defendant",
+        "part_of_speech": "n",
+        "meaning": "형사 피고인"
+      },
+      {
+        "word": "ruling party",
+        "part_of_speech": "n",
+        "meaning": "여당, 집권당"
+      },
+      {
+        "word": "parliament",
+        "part_of_speech": "n",
+        "meaning": "의회"
+      },
+      {
+        "word": "suspend",
+        "part_of_speech": "v",
+        "meaning": "중단하다, 정지시키다"
+      },
+      {
+        "word": "incumbent president",
+        "part_of_speech": "n",
+        "meaning": "현직 대통령"
+      },
+      {
+        "word": "Constitutional Court",
+        "part_of_speech": "n",
+        "meaning": "헌법재판소"
+      },
+      {
+        "word": "unconstitutional",
+        "part_of_speech": "adj",
+        "meaning": "위헌의"
+      }
+    ]
   },
   {
     "date": "2025-06-08",
