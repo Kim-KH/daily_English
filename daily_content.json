@@ -519,7 +519,7 @@
       },
       {
         "sentenceNumber": 12,
-        "units": [
+        "units": [ 
           {
             "unit": "legal experts",
             "role": "S",
@@ -543,159 +543,11 @@
             "type": "Noun Clause",
             "is_main_unit": true,
             "detail": "that (implied)"
-          }
+          },
         ],
         "translatedSentenceText": "",
         "originalSentenceText": "legal experts have said The Constitutional Court may be asked to rule whether the bill is unconstitutional"
       }
-    ],
-    "vocabulary": [
-      {
-        "word": "election law violation",
-        "part_of_speech": "n",
-        "meaning": "선거법 위반"
-      },
-      {
-        "word": "hearing",
-        "part_of_speech": "n",
-        "meaning": "공판, 심리"
-      },
-      {
-        "word": "postpone",
-        "part_of_speech": "v",
-        "meaning": "연기하다"
-      },
-      {
-        "word": "indefinitely",
-        "part_of_speech": "adv",
-        "meaning": "무기한으로"
-      },
-      {
-        "word": "charges",
-        "part_of_speech": "n",
-        "meaning": "혐의"
-      },
-      {
-        "word": "Supreme Court",
-        "part_of_speech": "n",
-        "meaning": "대법원"
-      },
-      {
-        "word": "rule",
-        "part_of_speech": "v",
-        "meaning": "판결하다"
-      },
-      {
-        "word": "false statements",
-        "part_of_speech": "n",
-        "meaning": "허위 사실 공표, 허위 발언"
-      },
-      {
-        "word": "presidential bid",
-        "part_of_speech": "n",
-        "meaning": "대선 출마, 대선 운동"
-      },
-      {
-        "word": "appeals court",
-        "part_of_speech": "n",
-        "meaning": "항소 법원, 고등 법원"
-      },
-      {
-        "word": "spokesperson",
-        "part_of_speech": "n",
-        "meaning": "대변인"
-      },
-      {
-        "word": "elaborate",
-        "part_of_speech": "v",
-        "meaning": "자세히 설명하다"
-      },
-      {
-        "word": "Constitution",
-        "part_of_speech": "n",
-        "meaning": "헌법"
-      },
-      {
-        "word": "sitting president",
-        "part_of_speech": "n",
-        "meaning": "현직 대통령"
-      },
-      {
-        "word": "be subject to",
-        "part_of_speech": "phr",
-        "meaning": "~의 대상이 되다"
-      },
-      {
-        "word": "criminal prosecution",
-        "part_of_speech": "n",
-        "meaning": "형사 소추"
-      },
-      {
-        "word": "legal experts",
-        "part_of_speech": "n",
-        "meaning": "법률 전문가"
-      },
-      {
-        "word": "be divided on",
-        "part_of_speech": "phr",
-        "meaning": "~에 대해 의견이 나뉘다"
-      },
-      {
-        "word": "ongoing trials",
-        "part_of_speech": "n",
-        "meaning": "진행 중인 재판"
-      },
-      {
-        "word": "prosecuted",
-        "part_of_speech": "v",
-        "meaning": "기소된"
-      },
-      {
-        "word": "National Court Administration",
-        "part_of_speech": "n",
-        "meaning": "법원행정처"
-      },
-      {
-        "word": "determine",
-        "part_of_speech": "v",
-        "meaning": "결정하다, 확정하다"
-      },
-      {
-        "word": "criminal defendant",
-        "part_of_speech": "n",
-        "meaning": "형사 피고인"
-      },
-      {
-        "word": "ruling party",
-        "part_of_speech": "n",
-        "meaning": "여당, 집권당"
-      },
-      {
-        "word": "parliament",
-        "part_of_speech": "n",
-        "meaning": "의회"
-      },
-      {
-        "word": "suspend",
-        "part_of_speech": "v",
-        "meaning": "중단하다, 정지시키다"
-      },
-      {
-        "word": "incumbent president",
-        "part_of_speech": "n",
-        "meaning": "현직 대통령"
-      },
-      {
-        "word": "Constitutional Court",
-        "part_of_speech": "n",
-        "meaning": "헌법재판소"
-      },
-      {
-        "word": "unconstitutional",
-        "part_of_speech": "adj",
-        "meaning": "위헌의"
-      }
-    ]
   },
   {
     "date": "2025-06-08",
