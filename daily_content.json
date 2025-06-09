@@ -1,4 +1,1159 @@
 [
+      {
+    "date": "2024-05-28",
+    "language": "en",
+    "title": "South Korean Conservative Defeat and Quest for Rebirth",
+    "content": "South Korea's conservatives suffered a massive defeat in a recent snap presidential election. The result gave the ruling Democratic Party, led by Lee Jae-myung, control of both parliament and the presidency.\n\nThis defeat was heavily linked to the smouldering resentment over former President Yoon Suk Yeol's failed martial law declaration in December. The attempt at military rule led to Yoon's removal from office and the conservative People Power Party's (PPP) eventual loss.\n\nA key factor in the defeat was the PPP's inability to overcome divisions within the right and unify behind a single candidate. The PPP's candidate, Kim Moon-soo (41.15%), was unable to convince Lee Jun-seok (8.34%) of the minor Reform Party to drop out, splitting the conservative vote. Lee Jae-myung won with 49.42%.\n\nLee Jun-seok, a controversial figure who had previously led the PPP and helped Yoon win in 2022 before being ousted, suggested the PPP should have focused on reform over unity.\n\nInfighting during the primary process, including clashes between Kim Moon-soo and then-acting President Han Duck-soo, further damaged the party. Kim apologized for the \"nonsensical\" candidate selection process.\n\nCritics pointed to the PPP's failure to fully distance itself from Yoon's unpopular martial law. Political commentator Park Sangbyoung noted the party sided with \"far-right ideas\" and nominated Kim Moon-soo, who had ties to far-right groups, failing to attract moderate voters.\n\nFollowing the loss, conservative leaders are blaming each other as they seek a new direction. PPP floor leader Kweon Seong-dong stepped down, calling the defeat a \"painful reprimand\" for the party's internal divisions and urging a complete rebuild.\nThere are calls for radical change. Some suggest the conservatives need to be reborn, possibly even \"blowing up the party and creating a new one\" to be a true opposition force. Professor Shin Yul attributed the \"falling of People Power Party\" to leadership focused on self-interest and said they must \"clear the mess inside\". Lawmaker Park Jeong-hoon stated the party must \"tear down our house and rebuild it\" for survival.\n\nYoon is the second consecutive conservative president removed from office, following Park Geun-hye's impeachment in 2017. Internal conflict also followed Yoon's impeachment, with then-PPP leader Han Dong-hoon's plan for an interim government being rejected, causing further division.\n\nHan Dong-hoon urged cooperation with the new administration on some issues but stressed resistance against any attempt to \"destroy the judiciary system\". The PPP accuses the Democratic Party of trying to pass bills to shield President Lee Jae-myung from corruption charges. Han called this the \"last chance to end the same old politics\".",
+    "analysis": [
+      {
+        "sentenceNumber": 1,
+        "units": [
+          {
+            "unit": "South Korea's conservatives",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "한국의 보수 진영은"
+          },
+          {
+            "unit": "suffered",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "겪었다"
+          },
+          {
+            "unit": "a massive defeat",
+            "role": "O",
+            "meaning": "목적어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "엄청난 패배를"
+          },
+          {
+            "unit": "in a recent snap presidential election",
+            "role": "prep",
+            "meaning": "전치사구",
+            "type": "Prepositional Phrase",
+            "is_main_unit": true,
+            "detail": "최근의 조기 대선에서"
+          }
+        ],
+        "translatedSentenceText": "한국의 보수 진영은 최근의 조기 대선에서 엄청난 패배를 겪었다.",
+        "originalSentenceText": "South Korea's conservatives suffered a massive defeat in a recent snap presidential election"
+      },
+      {
+        "sentenceNumber": 2,
+        "units": [
+          {
+            "unit": "The result",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "그 결과는"
+          },
+          {
+            "unit": "gave",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "주었다"
+          },
+          {
+            "unit": "the ruling Democratic Party, led by Lee Jae-myung,",
+            "role": "I.O",
+            "meaning": "간접목적어",
+            "type": "Phrase",
+            "is_main_unit": true,
+            "detail": "이재명이 이끄는 집권 민주당에게"
+          },
+          {
+            "unit": "control of both parliament and the presidency",
+            "role": "D.O",
+            "meaning": "직접목적어",
+            "type": "Phrase",
+            "is_main_unit": true,
+            "detail": "의회와 대통령직 모두의 통제권을"
+          }
+        ],
+        "translatedSentenceText": "그 결과는 이재명이 이끄는 집권 민주당에게 의회와 대통령직 모두의 통제권을 안겨주었다.",
+        "originalSentenceText": "The result gave the ruling Democratic Party, led by Lee Jae-myung, control of both parliament and the presidency"
+      },
+      {
+        "sentenceNumber": 3,
+        "units": [
+          {
+            "unit": "This defeat",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "이번 패배는"
+          },
+          {
+            "unit": "was heavily linked",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "깊이 연관되어 있었다"
+          },
+          {
+            "unit": "to the smouldering resentment",
+            "role": "prep",
+            "meaning": "전치사구",
+            "type": "Prepositional Phrase",
+            "is_main_unit": true,
+            "detail": "수면 아래에서 들끓는 분노와"
+          },
+          {
+            "unit": "over former President Yoon Suk Yeol's failed martial law declaration in December",
+            "role": "prep",
+            "meaning": "전치사구",
+            "type": "Prepositional Phrase",
+            "is_main_unit": true,
+            "detail": "지난 12월 윤석열 전 대통령의 실패한 계엄령 선포에 대한"
+          }
+        ],
+        "translatedSentenceText": "이번 패배는 지난 12월 윤석열 전 대통령의 실패한 계엄령 선포에 대한 수면 아래의 분노와 깊이 연관되어 있었다.",
+        "originalSentenceText": "This defeat was heavily linked to the smouldering resentment over former President Yoon Suk Yeol's failed martial law declaration in December"
+      },
+      {
+        "sentenceNumber": 4,
+        "units": [
+          {
+            "unit": "The attempt at military rule",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "군사 통치 시도는"
+          },
+          {
+            "unit": "led to",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "~로 이어졌다"
+          },
+          {
+            "unit": "Yoon's removal from office",
+            "role": "O",
+            "meaning": "목적어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "윤 전 대통령의 퇴진과"
+          },
+          {
+            "unit": "and",
+            "role": "conj",
+            "meaning": "연결어",
+            "type": "Conjunction",
+            "is_main_unit": true,
+            "detail": "and"
+          },
+          {
+            "unit": "the conservative People Power Party's",
+            "role": "PPP) eventual loss (O",
+            "meaning": "목적어",
+            "type": "Phrase",
+            "is_main_unit": true,
+            "detail": "보수 정당인 국민의힘(PPP"
+          }
+        ],
+        "translatedSentenceText": "군사 통치 시도는 윤 전 대통령의 퇴진과 보수 정당인 국민의힘(PPP)의 최종적인 패배로 이어졌다.",
+        "originalSentenceText": "The attempt at military rule led to Yoon's removal from officeand the conservative People Power Party's"
+      },
+      {
+        "sentenceNumber": 5,
+        "units": [
+          {
+            "unit": "A key factor in the defeat",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "패배의 핵심 요인은"
+          },
+          {
+            "unit": "was",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "~이었다"
+          },
+          {
+            "unit": "the PPP's inability to overcome divisions within the right and unify behind a single candidate",
+            "role": "S.C",
+            "meaning": "주격보어",
+            "type": "Subject Complement Phrase",
+            "is_main_unit": true,
+            "detail": "우파 내 분열을 극복하고 단일 후보 중심으로 단결하지 못한 국민의힘의 무능력이었다"
+          }
+        ],
+        "translatedSentenceText": "패배의 핵심 요인은 우파 내 분열을 극복하고 단일 후보 중심으로 단결하지 못한 국민의힘의 무능력이었다.",
+        "originalSentenceText": "A key factor in the defeat was the PPP's inability to overcome divisions within the right and unify behind a single candidate"
+      },
+      {
+        "sentenceNumber": 6,
+        "units": [
+          {
+            "unit": "The PPP's candidate, Kim Moon-soo",
+            "role": "41.15%), (S",
+            "meaning": "주어",
+            "type": "Phrase",
+            "is_main_unit": true,
+            "detail": "국민의힘 후보인 김문수(41.15%"
+          },
+          {
+            "unit": "was unable to convince",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "설득할 수 없었다"
+          },
+          {
+            "unit": "Lee Jun-seok",
+            "role": "8.34%) of the minor Reform Party (O",
+            "meaning": "목적어",
+            "type": "Phrase",
+            "is_main_unit": true,
+            "detail": "군소 정당인 개혁신당의 이준석(8.34%"
+          },
+          {
+            "unit": "to drop out",
+            "role": "O.C",
+            "meaning": "목적보어(부정사구",
+            "type": "Object Complement Phrase",
+            "is_main_unit": true
+          },
+          {
+            "unit": ", splitting the conservative vote",
+            "role": "part",
+            "meaning": "분사구문",
+            "type": "Participial Phrase",
+            "is_main_unit": true,
+            "detail": "보수 표를 분열시키면서"
+          }
+        ],
+        "translatedSentenceText": "국민의힘 후보인 김문수(41.15%)는 군소 정당인 개혁신당의 이준석(8.34%)을 사퇴하도록 설득하지 못했고, 이는 보수 표를 분열시켰다.",
+        "originalSentenceText": "The PPP's candidate, Kim Moon-soo was unable to convince Lee Jun-seok to drop out, splitting the conservative vote"
+      },
+      {
+        "sentenceNumber": 7,
+        "units": [
+          {
+            "unit": "Lee Jae-myung",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "이재명은"
+          },
+          {
+            "unit": "won",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "승리했다"
+          },
+          {
+            "unit": "with 49.42%",
+            "role": "prep",
+            "meaning": "전치사구",
+            "type": "Prepositional Phrase",
+            "is_main_unit": true,
+            "detail": "49.42%의 득표율로"
+          }
+        ],
+        "translatedSentenceText": "이재명은 49.42%의 득표율로 승리했다.",
+        "originalSentenceText": "Lee Jae-myung won with 49.42%"
+      },
+      {
+        "sentenceNumber": 8,
+        "units": [
+          {
+            "unit": "Lee Jun-seok, a controversial figure who had previously led the PPP and helped Yoon win in 2022 before being ousted,",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "이전에 국민의힘을 이끌고 2022년 윤 전 대통령의 승리를 도왔다가 축출된 논란의 인물인 이준석은"
+          },
+          {
+            "unit": "a controversial figure",
+            "role": "S 내 핵심",
+            "meaning": "논란의 인물",
+            "type": "Noun Phrase",
+            "is_main_unit": false
+          },
+          {
+            "unit": "who had previously led the PPP and helped Yoon win in 2022 before being ousted",
+            "role": "ac",
+            "meaning": "형용사절(관계사절",
+            "type": "Adjective Clause",
+            "is_main_unit": false,
+            "detail": "who"
+          },
+          {
+            "unit": "suggested",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "제안했다"
+          },
+          {
+            "unit": "the PPP should have focused on reform over unity",
+            "role": "ncl",
+            "meaning": "명사절(목적어",
+            "type": "Noun Clause",
+            "is_main_unit": true
+          }
+        ],
+        "translatedSentenceText": "이전에 국민의힘을 이끌고 2022년 윤 전 대통령의 승리를 도왔다가 축출된 논란의 인물인 이준석은, 국민의힘이 통합보다는 개혁에 집중했어야 했다고 제안했다.",
+        "originalSentenceText": "Lee Jun-seok, a controversial figure who had previously led the PPP and helped Yoon win in 2022 before being ousted, suggested the PPP should have focused on reform over unity"
+      },
+      {
+        "sentenceNumber": 9,
+        "units": [
+          {
+            "unit": "Infighting during the primary process, including clashes between Kim Moon-soo and then-acting President Han Duck-soo,",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "김문수와 당시 한덕수 대통령 권한대행 간의 충돌을 포함한, 경선 과정에서의 내분은"
+          },
+          {
+            "unit": "further damaged",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "더욱 손상시켰다"
+          },
+          {
+            "unit": "the party",
+            "role": "O",
+            "meaning": "목적어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "당을"
+          }
+        ],
+        "translatedSentenceText": "김문수와 당시 한덕수 대통령 권한대행 간의 충돌을 포함한 경선 과정에서의 내분은 당을 더욱 손상시켰다.",
+        "originalSentenceText": "Infighting during the primary process, including clashes between Kim Moon-soo and then-acting President Han Duck-soo, further damaged the party"
+      },
+      {
+        "sentenceNumber": 10,
+        "units": [
+          {
+            "unit": "Kim",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "김문수는"
+          },
+          {
+            "unit": "apologized",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "사과했다"
+          },
+          {
+            "unit": "for the \"nonsensical\" candidate selection process",
+            "role": "prep",
+            "meaning": "전치사구",
+            "type": "Prepositional Phrase",
+            "is_main_unit": true,
+            "detail": "\"비상식적인\" 후보 선정 과정에 대해"
+          }
+        ],
+        "translatedSentenceText": "김문수는 \"비상식적인\" 후보 선정 과정에 대해 사과했다.",
+        "originalSentenceText": "Kim apologized for the \"nonsensical\" candidate selection process"
+      },
+      {
+        "sentenceNumber": 11,
+        "units": [
+          {
+            "unit": "Critics",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "비판가들은"
+          },
+          {
+            "unit": "pointed to",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "지적했다"
+          },
+          {
+            "unit": "the PPP's failure to fully distance itself from Yoon's unpopular martial law",
+            "role": "O",
+            "meaning": "목적어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "국민의힘이 윤 전 대통령의 비인기 계엄령으로부터 완전히 거리를 두지 못한 실패를"
+          }
+        ],
+        "translatedSentenceText": "비판가들은 국민의힘이 윤 전 대통령의 비인기 계엄령으로부터 완전히 거리를 두지 못한 실패를 지적했다.",
+        "originalSentenceText": "Critics pointed to the PPP's failure to fully distance itself from Yoon's unpopular martial law"
+      },
+      {
+        "sentenceNumber": 12,
+        "units": [
+          {
+            "unit": "Political commentator Park Sangbyoung",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "정치 평론가 박상병은"
+          },
+          {
+            "unit": "noted",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "언급했다"
+          },
+          {
+            "unit": "the party sided with \"far-right ideas\" and nominated Kim Moon-soo, who had ties to far-right groups, failing to attract moderate voters",
+            "role": "ncl",
+            "meaning": "명사절(목적어",
+            "type": "Noun Clause",
+            "is_main_unit": true
+          }
+        ],
+        "translatedSentenceText": "정치 평론가 박상병은 당이 \"극우 이념\"에 편승하고 극우 단체와 연관이 있는 김문수를 공천하여 중도 유권자를 끌어들이는 데 실패했다고 언급했다.",
+        "originalSentenceText": "Political commentator Park Sangbyoung noted the party sided with \"far-right ideas\" and nominated Kim Moon-soo, who had ties to far-right groups, failing to attract moderate voters"
+      },
+      {
+        "sentenceNumber": 13,
+        "units": [
+          {
+            "unit": "Following the loss",
+            "role": "prep",
+            "meaning": "전치사구",
+            "type": "Prepositional Phrase",
+            "is_main_unit": true,
+            "detail": "패배 이후"
+          },
+          {
+            "unit": ", conservative leaders",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "보수 지도자들은"
+          },
+          {
+            "unit": "are blaming",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "비난하고 있다"
+          },
+          {
+            "unit": "each other",
+            "role": "O",
+            "meaning": "목적어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "서로를"
+          },
+          {
+            "unit": "as they seek a new direction",
+            "role": "adc",
+            "meaning": "부사절",
+            "type": "Adverbial Clause",
+            "is_main_unit": true,
+            "detail": "as"
+          }
+        ],
+        "translatedSentenceText": "패배 이후, 보수 지도자들은 새로운 방향을 모색하면서 서로를 비난하고 있다.",
+        "originalSentenceText": "Following the loss, conservative leaders are blaming each other as they seek a new direction"
+      },
+      {
+        "sentenceNumber": 14,
+        "units": [
+          {
+            "unit": "PPP floor leader Kweon Seong-dong",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "국민의힘 원내대표 권성동은"
+          },
+          {
+            "unit": "stepped down",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "사퇴했다"
+          },
+          {
+            "unit": ", calling the defeat a \"painful reprimand\" for the party's internal divisions and urging a complete rebuild",
+            "role": "part",
+            "meaning": "분사구문",
+            "type": "Participial Phrase",
+            "is_main_unit": true,
+            "detail": "그 패배를 당의 내분에 대한 \"고통스러운 질책\"이라 부르고 완전한 재건을 촉구하며"
+          }
+        ],
+        "translatedSentenceText": "국민의힘 원내대표 권성동은 사퇴하며, 그 패배를 당의 내분에 대한 \"고통스러운 질책\"이라 부르고 완전한 재건을 촉구했다.",
+        "originalSentenceText": "PPP floor leader Kweon Seong-dong stepped down, calling the defeat a \"painful reprimand\" for the party's internal divisions and urging a complete rebuild"
+      },
+      {
+        "sentenceNumber": 15,
+        "units": [
+          {
+            "unit": "There",
+            "role": "adv",
+            "meaning": "유도부사",
+            "type": "Adverb",
+            "is_main_unit": true,
+            "detail": "~가 있다"
+          },
+          {
+            "unit": "are",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "있다"
+          },
+          {
+            "unit": "calls for radical change",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "급진적인 변화에 대한 요구들이"
+          }
+        ],
+        "translatedSentenceText": "급진적인 변화에 대한 요구들이 있다.",
+        "originalSentenceText": "There are calls for radical change"
+      },
+      {
+        "sentenceNumber": 16,
+        "units": [
+          {
+            "unit": "Some",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "일부는"
+          },
+          {
+            "unit": "suggest",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "제안한다"
+          },
+          {
+            "unit": "the conservatives need to be reborn, possibly even \"blowing up the party and creating a new one\" to be a true opposition force",
+            "role": "ncl",
+            "meaning": "명사절(목적어",
+            "type": "Noun Clause",
+            "is_main_unit": true
+          }
+        ],
+        "translatedSentenceText": "일부는 보수 진영이 진정한 야당 세력이 되기 위해 재탄생해야 하며, 아마도 \"당을 폭파하고 새 당을 만드는 것\"까지도 필요하다고 제안한다.",
+        "originalSentenceText": "Some suggest the conservatives need to be reborn, possibly even \"blowing up the party and creating a new one\" to be a true opposition force"
+      },
+      {
+        "sentenceNumber": 17,
+        "units": [
+          {
+            "unit": "Professor Shin Yul",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "신율 교수는"
+          },
+          {
+            "unit": "attributed",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "~의 탓으로 돌렸다"
+          },
+          {
+            "unit": "the \"falling of People Power Party\"",
+            "role": "O",
+            "meaning": "목적어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "\"국민의힘의 몰락\"을"
+          },
+          {
+            "unit": "to leadership focused on self-interest",
+            "role": "prep",
+            "meaning": "전치사구",
+            "type": "Prepositional Phrase",
+            "is_main_unit": true,
+            "detail": "사리사욕에 집중한 지도부 탓으로"
+          },
+          {
+            "unit": "and",
+            "role": "conj",
+            "meaning": "연결어",
+            "type": "Conjunction",
+            "is_main_unit": true,
+            "detail": "and"
+          },
+          {
+            "unit": "said",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "말했다"
+          },
+          {
+            "unit": "they must \"clear the mess inside\"",
+            "role": "ncl",
+            "meaning": "명사절(목적어",
+            "type": "Noun Clause",
+            "is_main_unit": true
+          }
+        ],
+        "translatedSentenceText": "신율 교수는 \"국민의힘의 몰락\"을 사리사욕에 집중한 지도부 탓으로 돌렸고, 그들이 \"내부의 혼란을 정리해야 한다\"고 말했다.",
+        "originalSentenceText": "Professor Shin Yul attributed the \"falling of People Power Party\" to leadership focused on self-interestand said they must \"clear the mess inside\""
+      },
+      {
+        "sentenceNumber": 18,
+        "units": [
+          {
+            "unit": "Lawmaker Park Jeong-hoon",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "박정훈 의원은"
+          },
+          {
+            "unit": "stated",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "말했다"
+          },
+          {
+            "unit": "the party must \"tear down our house and rebuild it\" for survival",
+            "role": "ncl",
+            "meaning": "명사절(목적어",
+            "type": "Noun Clause",
+            "is_main_unit": true
+          }
+        ],
+        "translatedSentenceText": "박정훈 의원은 당이 생존을 위해 \"우리의 집을 허물고 다시 지어야 한다\"고 말했다.",
+        "originalSentenceText": "Lawmaker Park Jeong-hoon stated the party must \"tear down our house and rebuild it\" for survival"
+      },
+      {
+        "sentenceNumber": 19,
+        "units": [
+          {
+            "unit": "Yoon",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "윤 전 대통령은"
+          },
+          {
+            "unit": "is",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "~이다"
+          },
+          {
+            "unit": "the second consecutive conservative president",
+            "role": "S.C",
+            "meaning": "주격보어",
+            "type": "Subject Complement Phrase",
+            "is_main_unit": true,
+            "detail": "두 번째 연속적인 보수 대통령이다"
+          },
+          {
+            "unit": "removed from office",
+            "role": "part",
+            "meaning": "분사구",
+            "type": "Participial Phrase",
+            "is_main_unit": true,
+            "detail": "직위에서 물러난"
+          },
+          {
+            "unit": ", following Park Geun-hye's impeachment in 2017",
+            "role": "prep",
+            "meaning": "전치사구",
+            "type": "Prepositional Phrase",
+            "is_main_unit": true,
+            "detail": "2017년 박근혜의 탄핵에 이어"
+          }
+        ],
+        "translatedSentenceText": "윤 전 대통령은 2017년 박근혜의 탄핵에 이어, 직위에서 물러난 두 번째 연속적인 보수 대통령이다.",
+        "originalSentenceText": "Yoon is the second consecutive conservative president removed from office, following Park Geun-hye's impeachment in 2017"
+      },
+      {
+        "sentenceNumber": 20,
+        "units": [
+          {
+            "unit": "Internal conflict",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "내부 갈등은"
+          },
+          {
+            "unit": "also followed",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "또한 뒤따랐다"
+          },
+          {
+            "unit": "Yoon's impeachment",
+            "role": "O",
+            "meaning": "목적어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "윤 전 대통령의 탄핵을"
+          },
+          {
+            "unit": ", with then-PPP leader Han Dong-hoon's plan for an interim government being rejected, causing further division",
+            "role": "prep",
+            "meaning": "전치사구",
+            "type": "Prepositional Phrase",
+            "is_main_unit": true,
+            "detail": "당시 국민의힘 대표였던 한동훈의 임시 정부 구성 계획이 거부되면서, 추가적인 분열을 야기하며"
+          }
+        ],
+        "translatedSentenceText": "내부 갈등은 또한 윤 전 대통령의 탄핵 이후에도 뒤따랐는데, 당시 국민의힘 대표였던 한동훈의 임시 정부 구성 계획이 거부되면서 추가적인 분열을 야기했다.",
+        "originalSentenceText": "Internal conflict also followed Yoon's impeachment, with then-PPP leader Han Dong-hoon's plan for an interim government being rejected, causing further division"
+      },
+      {
+        "sentenceNumber": 21,
+        "units": [
+          {
+            "unit": "Han Dong-hoon",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "한동훈은"
+          },
+          {
+            "unit": "urged",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "촉구했다"
+          },
+          {
+            "unit": "cooperation with the new administration on some issues",
+            "role": "O",
+            "meaning": "목적어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "몇몇 사안에 대해 새 행정부와의 협력을"
+          },
+          {
+            "unit": "but",
+            "role": "conj",
+            "meaning": "연결어",
+            "type": "Conjunction",
+            "is_main_unit": true,
+            "detail": "but"
+          },
+          {
+            "unit": "stressed",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "강조했다"
+          },
+          {
+            "unit": "resistance against any attempt to \"destroy the judiciary system\"",
+            "role": "O",
+            "meaning": "목적어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "\"사법 체계를 파괴하려는\" 어떠한 시도에 대한 저항을"
+          }
+        ],
+        "translatedSentenceText": "한동훈은 몇몇 사안에 대해 새 행정부와의 협력을 촉구했지만, \"사법 체계를 파괴하려는\" 어떠한 시도에 대한 저항을 강조했다.",
+        "originalSentenceText": "Han Dong-hoon urged cooperation with the new administration on some issuesbut stressed resistance against any attempt to \"destroy the judiciary system\""
+      },
+      {
+        "sentenceNumber": 22,
+        "units": [
+          {
+            "unit": "The PPP",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "국민의힘은"
+          },
+          {
+            "unit": "accuses",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "비난한다"
+          },
+          {
+            "unit": "the Democratic Party",
+            "role": "O",
+            "meaning": "목적어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "민주당을"
+          },
+          {
+            "unit": "of trying to pass bills to shield President Lee Jae-myung from corruption charges",
+            "role": "prep",
+            "meaning": "전치사구",
+            "type": "Prepositional Phrase",
+            "is_main_unit": true,
+            "detail": "이재명 대통령을 부패 혐의로부터 보호하기 위한 법안을 통과시키려 한다고"
+          }
+        ],
+        "translatedSentenceText": "국민의힘은 민주당이 이재명 대통령을 부패 혐의로부터 보호하기 위한 법안을 통과시키려 한다고 비난한다.",
+        "originalSentenceText": "The PPP accuses the Democratic Party of trying to pass bills to shield President Lee Jae-myung from corruption charges"
+      },
+      {
+        "sentenceNumber": 23,
+        "units": [
+          {
+            "unit": "Han",
+            "role": "S",
+            "meaning": "주어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "한동훈은"
+          },
+          {
+            "unit": "called",
+            "role": "V",
+            "meaning": "동사",
+            "type": "Verb",
+            "is_main_unit": true,
+            "detail": "불렀다"
+          },
+          {
+            "unit": "this",
+            "role": "O",
+            "meaning": "목적어",
+            "type": "Noun Phrase",
+            "is_main_unit": true,
+            "detail": "이것을"
+          },
+          {
+            "unit": "the \"last chance to end the same old politics\"",
+            "role": "O.C",
+            "meaning": "목적보어",
+            "type": "Object Complement Phrase",
+            "is_main_unit": true,
+            "detail": "\"구태 정치를 끝낼 마지막 기회\"라고"
+          }
+        ],
+        "translatedSentenceText": "한동훈은 이것을 \"구태 정치를 끝낼 마지막 기회\"라고 불렀다.",
+        "originalSentenceText": "Han called this the \"last chance to end the same old politics\""
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "conservative",
+        "part_of_speech": "n",
+        "meaning": "보수주의자, (adj) 보수적인"
+      },
+      {
+        "word": "massive defeat",
+        "part_of_speech": "n",
+        "meaning": "대패"
+      },
+      {
+        "word": "snap election",
+        "part_of_speech": "n",
+        "meaning": "조기 선거"
+      },
+      {
+        "word": "ruling party",
+        "part_of_speech": "n",
+        "meaning": "여당, 집권당"
+      },
+      {
+        "word": "parliament",
+        "part_of_speech": "n",
+        "meaning": "의회"
+      },
+      {
+        "word": "smouldering resentment",
+        "part_of_speech": "n",
+        "meaning": "수면 아래에서 들끓는 분노"
+      },
+      {
+        "word": "martial law",
+        "part_of_speech": "n",
+        "meaning": "계엄령"
+      },
+      {
+        "word": "removal from office",
+        "part_of_speech": "n",
+        "meaning": "퇴진, 면직"
+      },
+      {
+        "word": "inability",
+        "part_of_speech": "n",
+        "meaning": "무능, ~할 수 없음"
+      },
+      {
+        "word": "division",
+        "part_of_speech": "n",
+        "meaning": "분열"
+      },
+      {
+        "word": "unify",
+        "part_of_speech": "v",
+        "meaning": "통합하다, 단결하다"
+      },
+      {
+        "word": "drop out",
+        "part_of_speech": "phr v",
+        "meaning": "중도 하차하다, 사퇴하다"
+      },
+      {
+        "word": "split the vote",
+        "part_of_speech": "phr",
+        "meaning": "표를 분산시키다"
+      },
+      {
+        "word": "controversial figure",
+        "part_of_speech": "n",
+        "meaning": "논란의 인물"
+      },
+      {
+        "word": "oust",
+        "part_of_speech": "v",
+        "meaning": "내쫓다, 축출하다"
+      },
+      {
+        "word": "reform",
+        "part_of_speech": "n",
+        "meaning": "개혁"
+      },
+      {
+        "word": "unity",
+        "part_of_speech": "n",
+        "meaning": "통합, 단결"
+      },
+      {
+        "word": "infighting",
+        "part_of_speech": "n",
+        "meaning": "내분"
+      },
+      {
+        "word": "primary process",
+        "part_of_speech": "n",
+        "meaning": "(정당의) 예비 선거 과정, 경선"
+      },
+      {
+        "word": "clash",
+        "part_of_speech": "n",
+        "meaning": "충돌"
+      },
+      {
+        "word": "acting president",
+        "part_of_speech": "n",
+        "meaning": "대통령 권한대행"
+      },
+      {
+        "word": "nonsensical",
+        "part_of_speech": "adj",
+        "meaning": "터무니없는, 비상식적인"
+      },
+      {
+        "word": "distance oneself from",
+        "part_of_speech": "phr",
+        "meaning": "~와 거리를 두다"
+      },
+      {
+        "word": "unpopular",
+        "part_of_speech": "adj",
+        "meaning": "인기 없는"
+      },
+      {
+        "word": "political commentator",
+        "part_of_speech": "n",
+        "meaning": "정치 평론가"
+      },
+      {
+        "word": "far-right",
+        "part_of_speech": "adj",
+        "meaning": "극우의"
+      },
+      {
+        "word": "nominate",
+        "part_of_speech": "v",
+        "meaning": "지명하다, 공천하다"
+      },
+      {
+        "word": "moderate voter",
+        "part_of_speech": "n",
+        "meaning": "중도 성향 유권자"
+      },
+      {
+        "word": "floor leader",
+        "part_of_speech": "n",
+        "meaning": "(의회의) 원내대표"
+      },
+      {
+        "word": "step down",
+        "part_of_speech": "phr v",
+        "meaning": "사임하다, 물러나다"
+      },
+      {
+        "word": "reprimand",
+        "part_of_speech": "n",
+        "meaning": "질책, 징계"
+      },
+      {
+        "word": "urge",
+        "part_of_speech": "v",
+        "meaning": "촉구하다"
+      },
+      {
+        "word": "rebuild",
+        "part_of_speech": "n",
+        "meaning": "재건, (v) 재건하다"
+      },
+      {
+        "word": "radical change",
+        "part_of_speech": "n",
+        "meaning": "급진적인 변화"
+      },
+      {
+        "word": "opposition force",
+        "part_of_speech": "n",
+        "meaning": "야당 세력"
+      },
+      {
+        "word": "attribute A to B",
+        "part_of_speech": "phr",
+        "meaning": "A를 B의 탓으로 돌리다"
+      },
+      {
+        "word": "self-interest",
+        "part_of_speech": "n",
+        "meaning": "사리사욕, 이기심"
+      },
+      {
+        "word": "clear the mess",
+        "part_of_speech": "phr",
+        "meaning": "혼란을 정리하다"
+      },
+      {
+        "word": "tear down",
+        "part_of_speech": "phr v",
+        "meaning": "허물다"
+      },
+      {
+        "word": "consecutive",
+        "part_of_speech": "adj",
+        "meaning": "연속적인"
+      },
+      {
+        "word": "impeachment",
+        "part_of_speech": "n",
+        "meaning": "탄핵"
+      },
+      {
+        "word": "interim government",
+        "part_of_speech": "n",
+        "meaning": "임시 정부"
+      },
+      {
+        "word": "reject",
+        "part_of_speech": "v",
+        "meaning": "거부하다"
+      },
+      {
+        "word": "cooperation",
+        "part_of_speech": "n",
+        "meaning": "협력"
+      },
+      {
+        "word": "administration",
+        "part_of_speech": "n",
+        "meaning": "행정부"
+      },
+      {
+        "word": "resistance",
+        "part_of_speech": "n",
+        "meaning": "저항"
+      },
+      {
+        "word": "judiciary system",
+        "part_of_speech": "n",
+        "meaning": "사법 체계"
+      },
+      {
+        "word": "accuse A of B",
+        "part_of_speech": "phr",
+        "meaning": "A를 B라는 이유로 비난하다"
+      },
+      {
+        "word": "shield A from B",
+        "part_of_speech": "phr",
+        "meaning": "B로부터 A를 보호하다"
+      },
+      {
+        "word": "corruption charges",
+        "part_of_speech": "n",
+        "meaning": "부패 혐의"
+      },
+      {
+        "word": "the same old politics",
+        "part_of_speech": "n",
+        "meaning": "구태 정치"
+      }
+    ]
+  },
     {
       "date": "2024-06-09",
       "language": "en",
