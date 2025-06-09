@@ -1,6 +1,6 @@
 [
   {
-    "date": "2024-05-24",
+    "date": "2024-06-09",
     "language": "en",
     "title": "이재명 대통령 선거법 위반 재판 무기한 연기 분석",
     "content": "South Korea President Lee's election law violation hearing postponed indefinitely, court says.\n\nSEOUL, June 9 (Reuters) - A Seoul court said on Monday it will indefinitely postpone a trial of President Lee Jae-myung on charges of violating election law in 2022.\nSouth Korea's Supreme Court ruled in May, before Lee was elected, that Lee had violated election law by publicly making \"false statements\" during his 2022 presidential bid, and sent the case back to an appeals court\n\nThe Seoul High Court, which had scheduled a hearing for the case on June 18, said on Monday that it will postpone the hearing \"to be decided later\" without a date, a court spokesperson confirmed.\n\nLee's office did not immediately respond to a request for comment.\nThe court said its decision to postpone the hearing was due to \"Constitution Article 84\", without elaborating.\nSouth Korea's Constitution, Article 84, says a sitting president is \"not subject to criminal prosecution while in office\" for most crimes.\nHowever, legal experts are divided on whether that applies to ongoing trials that were already prosecuted before a president was elected.\nThe National Court Administration under the Supreme Court gave as its opinion that judges of each court where Lee's trials are being held will have to decide whether to stop or proceed, according to its statement to a lawmaker in May.\n\n\"The court in charge of hearing the case will determine whether Article 84 of the Constitution should be applied to a criminal defendant who was elected in the presidential election,\" the statement said.\nLee's ruling Democratic Party, which controls parliament, is planning to pass a bill this week which suspends ongoing trials for the incumbent president, local broadcaster KBS reported on Monday.\nThe Constitutional Court may be asked to rule whether the bill is unconstitutional, legal experts have said.",
@@ -32,7 +32,7 @@
             "detail": "법원이 밝혔다"
           }
         ],
-        "translatedSentenceText": "",
+        "translatedSentenceText": "이재명 대한민국 대통령의 선거법 위반 공판이 무기한 연기되었다고 법원이 밝혔다.",
         "originalSentenceText": "South Korea President Lee's election law violation hearing postponed indefinitely, court says"
       },
       {
@@ -103,7 +103,7 @@
             "detail": "2022년 선거법을 위반한 혐의로"
           }
         ],
-        "translatedSentenceText": "",
+        "translatedSentenceText": "서울의 한 법원은 월요일, 2022년 선거법 위반 혐의로 기소된 이재명 대통령의 재판을 무기한 연기할 것이라고 밝혔다.",
         "originalSentenceText": "A Seoul court said on Monday it will indefinitely postpone a trial of President Lee Jae-myung on charges of violating election law in 2022"
       },
       {
@@ -166,7 +166,7 @@
             "detail": "해당 사건을 항소 법원으로 파기 환송했다"
           }
         ],
-        "translatedSentenceText": "",
+        "translatedSentenceText": "대한민국 대법원은 지난 5월, 이 대통령이 당선되기 전에, 그가 2022년 대선 과정에서 공개적으로 \"허위 발언\"을 함으로써 선거법을 위반했다고 판결하고, 해당 사건을 항소 법원으로 파기 환송했다.",
         "originalSentenceText": "South Korea's Supreme Court ruled in May, before Lee was elected, that Lee had violated election law by publicly making \"false statements\" during his 2022 presidential bid, and sent the case back to an appeals court"
       },
       {
@@ -228,7 +228,7 @@
             "detail": "법원 대변인이 확인했다"
           }
         ],
-        "translatedSentenceText": "",
+        "translatedSentenceText": "해당 사건의 공판을 6월 18일로 예정했던 서울고등법원은 월요일, 날짜를 지정하지 않고 \"추후 지정\"으로 공판을 연기할 것이라고 밝혔으며, 이는 법원 대변인이 확인해주었다.",
         "originalSentenceText": "The Seoul High Court, which had scheduled a hearing for the case on June 18, said on Monday that it will postpone the hearing \"to be decided later\" without a date, a court spokesperson confirmed"
       },
       {
@@ -259,7 +259,7 @@
             "detail": "논평 요청에"
           }
         ],
-        "translatedSentenceText": "",
+        "translatedSentenceText": "이 대통령실은 논평 요청에 즉각 응답하지 않았다.",
         "originalSentenceText": "Lee's office did not immediately respond to a request for comment"
       },
       {
@@ -297,7 +297,7 @@
             "is_main_unit": true
           }
         ],
-        "translatedSentenceText": "",
+        "translatedSentenceText": "법원은 공판 연기 결정이 \"헌법 제84조\" 때문이라고 자세한 설명 없이 밝혔다.",
         "originalSentenceText": "The court said its decision to postpone the hearing was due to \"Constitution Article 84\", without elaborating"
       },
       {
@@ -328,7 +328,7 @@
             "detail": "that (implied)"
           }
         ],
-        "translatedSentenceText": "",
+        "translatedSentenceText": "대한민국 헌법 제84조는 현직 대통령은 대부분의 범죄에 대해 \"재직 중 형사상 소추를 받지 아니한다\"고 규정하고 있다.",
         "originalSentenceText": "South Korea's Constitution, Article 84, says a sitting president is \"not subject to criminal prosecution while in office\" for most crimes"
       },
       {
@@ -367,7 +367,7 @@
             "detail": "대통령 당선 전에 이미 기소된 진행 중인 재판에도 그것이 적용되는지에 대해"
           }
         ],
-        "translatedSentenceText": "",
+        "translatedSentenceText": "그러나 법률 전문가들은 대통령 당선 전에 이미 기소된 진행 중인 재판에도 그것이 적용되는지에 대해 의견이 나뉜다.",
         "originalSentenceText": "However, legal experts are divided on whether that applies to ongoing trials that were already prosecuted before a president was elected"
       },
       {
@@ -406,39 +406,30 @@
             "detail": "지난 5월 한 국회의원에게 보낸 답변서에 따르면"
           }
         ],
-        "translatedSentenceText": "",
+        "translatedSentenceText": "대법원 산하 법원행정처는 지난 5월 한 국회의원에게 보낸 답변서에 따라, 이 대통령의 재판이 열리고 있는 각 법원의 재판부가 중단할지 진행할지를 결정해야 할 것이라는 의견을 밝혔다.",
         "originalSentenceText": "The National Court Administration under the Supreme Court gave as its opinion that judges of each court where Lee's trials are being held will have to decide whether to stop or proceed, according to its statement to a lawmaker in May"
       },
       {
         "sentenceNumber": 10,
         "units": [
           {
-            "unit": "The statement",
-            "role": "S",
-            "meaning": "주어",
+            "unit": "\"The court in charge of hearing the case will determine whether Article 84 of the Constitution should be applied to a criminal defendant who was elected in the presidential election,\"",
+            "role": "O",
+            "meaning": "목적어(인용구",
             "type": "Noun Phrase",
-            "is_main_unit": true,
-            "detail": "그 성명서는"
+            "is_main_unit": true
           },
           {
-            "unit": "said,",
-            "role": "V",
-            "meaning": "동사",
-            "type": "Verb",
+            "unit": "the statement said",
+            "role": "S+V",
+            "meaning": "주어+동사",
+            "type": "Phrase",
             "is_main_unit": true,
-            "detail": "말했다"
-          },
-          {
-            "unit": "\"The court in charge of hearing the case will determine whether Article 84 of the Constitution should be applied to a criminal defendant who was elected in the presidential election\"",
-            "role": "ncl",
-            "meaning": "명사절(목적어",
-            "type": "Noun Clause",
-            "is_main_unit": true,
-            "detail": "that (implied)"
+            "detail": "성명서는 밝혔다"
           }
         ],
-        "translatedSentenceText": "",
-        "originalSentenceText": "The statement said, \"The court in charge of hearing the case will determine whether Article 84 of the Constitution should be applied to a criminal defendant who was elected in the presidential election\""
+        "translatedSentenceText": "\"사건 심리를 담당하는 법원이, 대통령 선거에서 당선된 형사 피고인에게 헌법 제84조가 적용되어야 하는지를 결정할 것\"이라고 그 성명서는 밝혔다.",
+        "originalSentenceText": "\"The court in charge of hearing the case will determine whether Article 84 of the Constitution should be applied to a criminal defendant who was elected in the presidential election,\" the statement said"
       },
       {
         "sentenceNumber": 11,
@@ -490,39 +481,55 @@
             "detail": "라고 월요일 현지 방송사인 KBS가 보도했다"
           }
         ],
-        "translatedSentenceText": "",
+        "translatedSentenceText": "의회를 장악하고 있는 이 대통령의 집권 민주당은 현직 대통령에 대한 진행 중인 재판을 중단시키는 법안을 이번 주에 통과시킬 계획이라고, 월요일 현지 방송사인 KBS가 보도했다.",
         "originalSentenceText": "Lee's ruling Democratic Party, which controls parliament, is planning to pass a bill this week which suspends ongoing trials for the incumbent president, local broadcaster KBS reported on Monday"
       },
       {
         "sentenceNumber": 12,
         "units": [
           {
-            "unit": "legal experts",
+            "unit": "The Constitutional Court",
             "role": "S",
             "meaning": "주어",
             "type": "Noun Phrase",
             "is_main_unit": true,
-            "detail": "법률 전문가들은"
+            "detail": "헌법재판소는"
           },
           {
-            "unit": "have said",
+            "unit": "may be asked",
             "role": "V",
             "meaning": "동사",
             "type": "Verb",
             "is_main_unit": true,
-            "detail": "말했다"
+            "detail": "요청받을 수도 있다"
           },
           {
-            "unit": "The Constitutional Court may be asked to rule whether the bill is unconstitutional",
+            "unit": "to rule",
+            "role": "inf",
+            "meaning": "부정사구",
+            "type": "Infinitive Phrase",
+            "is_main_unit": true,
+            "detail": "판단해 달라고"
+          },
+          {
+            "unit": "whether the bill is unconstitutional",
             "role": "ncl",
             "meaning": "명사절(목적어",
             "type": "Noun Clause",
             "is_main_unit": true,
-            "detail": "that (implied)"
+            "detail": "whether"
+          },
+          {
+            "unit": ", legal experts have said",
+            "role": "S+V",
+            "meaning": "삽입절",
+            "type": "Phrase",
+            "is_main_unit": true,
+            "detail": "라고 법률 전문가들이 말했다"
           }
         ],
-        "translatedSentenceText": "",
-        "originalSentenceText": "legal experts have said The Constitutional Court may be asked to rule whether the bill is unconstitutional"
+        "translatedSentenceText": "헌법재판소는 그 법안이 위헌인지 아닌지를 판단해 달라고 요청받을 수도 있다고 법률 전문가들이 말했다.",
+        "originalSentenceText": "The Constitutional Court may be asked to rule whether the bill is unconstitutional, legal experts have said"
       }
     ],
     "vocabulary": [
@@ -672,41 +679,5 @@
         "meaning": "위헌의"
       }
     ]
-  },
-  {
-    "date": "2025-06-08",
-    "language": "en",
-    "title": "Day 3: Regulatory and Tax Implications", 
-    "content": "Content for June 8th. How Donald Trump's \"America First\" policy... (이하 동일 내용 반복 또는 실제 내용)",
-    "analysis": [  ],
-    "vocabulary": [  ]
-  },
-  {
-    "date": "2025-06-07", 
-    "language":"en",
-    "title": "Why ‘America First’ could end the age of arbitrage",
-    "content": "How Donald Trump's \"America First\" policy, which targets global supply chains, could also signal the end of an era of arbitrage. Beyond trade in goods, this policy may impact tax, regulatory, and financial arbitrage, with potentially more significant consequences for investors.\n•\nTax Arbitrage: U.S. companies have shifted assets offshore to lower-tax jurisdictions, reporting significant profits there compared to the U.S.. This has benefited companies and low-tax countries but not U.S. taxpayers.\n•\nRegulatory Arbitrage: Companies, particularly in finance like insurers, have moved activities to places with looser regulations, such as transferring life insurance reserves to Bermuda. This allows them to free up capital and has aided the growth of private credit firms using offshore insurance operations for funding.\n•\nFinancial Arbitrage: The post-2008 global financial system relies on foreign exchange swaps using U.S. Treasuries held overseas to create international credit. While some see this as an \"exorbitant privilege\" for the U.S., the Trump administration views it as providing a \"global public good\" for free and suggests other countries should \"pay their fair share\".\n\nA potential crackdown on these arbitrages could mean investors should be cautious about industries and firms that benefit significantly from these practices, such as certain pharmaceutical companies or private credit providers reliant on offshore funding. Targeting the dollar-based financial system itself, possibly by taxing foreign investors in U.S. assets, could be even more disruptive to global finance as we know it.",
-    "analysis": [
-      {
-        "sentenceNumber": 1,
-        "originalSentenceText": "How Donald Trump's \"America First\" policy, which targets global supply chains, could also signal the end of an era of arbitrage.",
-        "translatedSentenceText": "도널드 트럼프의 '미국 우선주의' 정책(글로벌 공급망을 겨냥하는)이 어떻게 차익 거래 시대의 종말을 또한 신호하는지 보여줍니다.",
-        "units": [  ]
-      },
-      {
-        "sentenceNumber": 2,
-        "originalSentenceText": "Beyond trade in goods, this policy may impact tax, regulatory, and financial arbitrage, with potentially more significant consequences for investors.",
-        "translatedSentenceText": "상품 거래를 넘어, 이 정책은 세금, 규제, 금융 차익 거래에 영향을 미칠 수 있으며, 투자자들에게는 잠재적으로 더 심각한 결과를 초래할 수 있습니다.",
-        "units": [  ]
-      },
-    "vocabulary": [  ]
-  },
-  {
-    "date": "2025-06-06", 
-    "language": "en",
-    "title": "Day 1: Introduction to Arbitrage Concepts", 
-    "content": "Content for June 6th. How Donald Trump's \"America First\" policy... (이하 동일 내용 반복 또는 실제 내용)",
-    "analysis": [  ],
-    "vocabulary": []
   }
 ]
